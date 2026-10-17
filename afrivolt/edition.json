@@ -1,0 +1,553 @@
+{
+  "outletSlug": "afrivolt",
+  "generatedAt": "2026-10-17T08:05:52.175Z",
+  "sourceCount": 3,
+  "articles": [
+    {
+      "id": "dc879ea820765b20",
+      "section": "news",
+      "slug": "wallbox-installs-120-ev-chargers-at-montreal-airport-dc879ea8",
+      "headline": "Wallbox Installs 120 EV Chargers at Montréal Airport",
+      "dek": "The charging infrastructure expansion at Montréal Metropolitan Airport's YHU terminal aims to support the growing adoption of electric vehicles.",
+      "kicker": "News",
+      "lead": "Charging hardware company Wallbox has completed the installation of 120 electric vehicle (EV) charging points at Montréal Metropolitan Airport's YHU terminal. This initiative was undertaken in collaboration with EDP électrique, a Canadian provider of electrical solutions.",
+      "takeaway": "The charging infrastructure expansion at Montréal Metropolitan Airport's YHU terminal aims to support the growing adoption of electric vehicles.",
+      "body": [
+        "Charging hardware company Wallbox has completed the installation of 120 electric vehicle (EV) charging points at Montréal Metropolitan Airport's YHU terminal. This initiative was undertaken in collaboration with EDP électrique, a Canadian provider of electrical solutions.",
+        "Upon the completion of a new airport building currently under construction, an additional 48 charging stations will be deployed. This will ultimately increase the total number of EV chargers at the airport to 168.",
+        "The expansion of charging facilities aligns with efforts to accommodate the increasing number of electric vehicles and support sustainable transportation options."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-17T08:00:00.000Z",
+      "updatedAt": "2026-10-17T08:00:00.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/17/wallbox-installs-120-ev-chargers-at-montreal-airport/",
+        "originalTitle": "Wallbox installs 120 EV chargers at Montréal airport"
+      },
+      "faqs": [
+        {
+          "question": "Who installed the new EV chargers at Montréal Airport?",
+          "answer": "The charging hardware firm Wallbox, in partnership with EDP électrique, installed the new EV chargers."
+        },
+        {
+          "question": "How many EV chargers will be available at the airport in total?",
+          "answer": "A total of 168 EV chargers will be available once the second phase of installations is complete."
+        }
+      ]
+    },
+    {
+      "id": "7ae4239fa5ceee03",
+      "section": "news",
+      "slug": "montreal-airport-installs-120-electric-vehicle-chargers-7ae4239f",
+      "headline": "Montréal Airport Installs 120 Electric Vehicle Chargers",
+      "dek": "Montréal Metropolitan Airport expands its EV infrastructure with 120 charging stations operational and 48 more planned, utilizing Wallbox technology for efficient power management.",
+      "kicker": "News",
+      "lead": "Montréal Metropolitan Airport (YHU) has deployed 120 electric vehicle (EV) chargers, with an additional 48 units slated for installation. The chargers, identified as Wallbox Pulsar Pro models, are available for employees, visitors, and airport operations.",
+      "takeaway": "Montréal Metropolitan Airport expands its EV infrastructure with 120 charging stations operational and 48 more planned, utilizing Wallbox technology for efficient power management.",
+      "body": [
+        "Montréal Metropolitan Airport (YHU) has deployed 120 electric vehicle (EV) chargers, with an additional 48 units slated for installation. The chargers, identified as Wallbox Pulsar Pro models, are available for employees, visitors, and airport operations.",
+        "Located in Longueuil, Quebec, the airport, also known as MET, is integrating these charging points across its parking facilities, which offer over 2,600 spaces. The expansion aims to support the growing adoption of electric vehicles.",
+        "The installation incorporates Wallbox's Power Sharing technology to manage electricity distribution among the chargers, optimizing the use of the airport's electrical capacity. Centralized management and payment processing are handled by Foresta's software.",
+        "Integration of the charging infrastructure was coordinated by edp électrique, with EG Électrique and Westburne also participating in the project. Specific charging speeds and pricing for the new chargers have not yet been announced, nor has a completion date for the upcoming 48 units."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-16T20:42:51.000Z",
+      "updatedAt": "2026-10-16T20:42:51.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/16/montreal-airport-120-ev-chargers-with-48-more-coming/",
+        "originalTitle": "This Montréal airport now has 120 EV chargers, with 48 more on the way"
+      },
+      "faqs": [
+        {
+          "question": "How many EV chargers are currently operational at Montréal Metropolitan Airport?",
+          "answer": "There are 120 electric vehicle chargers currently operational at Montréal Metropolitan Airport."
+        },
+        {
+          "question": "What technology is used to manage the power distribution for the EV chargers?",
+          "answer": "The airport's installation uses Wallbox's Power Sharing technology to divide available power among groups of chargers."
+        }
+      ]
+    },
+    {
+      "id": "20acf94f4d074636",
+      "section": "news",
+      "slug": "lectric-e-bikes-offer-significant-savings-in-spooky-sale-20acf94f",
+      "headline": "Lectric E-Bikes Offer Significant Savings in Spooky Sale",
+      "dek": "Lectric's \"Spooky Sale\" includes discounts of up to $762 on select e-bike models, bundled with free gifts, starting at $999.",
+      "kicker": "News",
+      "lead": "Lectric has launched its \"Spooky Sale,\" featuring discounts on several e-bike models. The promotion offers savings of up to $762 on select black, grey, and white e-bikes, with prices starting at $999. These deals include two free mystery gifts with qualifying purchases.",
+      "takeaway": "Lectric's \"Spooky Sale\" includes discounts of up to $762 on select e-bike models, bundled with free gifts, starting at $999.",
+      "body": [
+        "Lectric has launched its \"Spooky Sale,\" featuring discounts on several e-bike models. The promotion offers savings of up to $762 on select black, grey, and white e-bikes, with prices starting at $999. These deals include two free mystery gifts with qualifying purchases.",
+        "One highlighted offer is the XP4 750 Folding Utility e-bike, available for $1,299. This model comes with a free gear bundle valued at $433, which includes mystery gifts, a cargo rack, a suspension seatpost, a headlight, a phone mount, and a bike lock. Without the sale, the e-bike and bundle would cost $1,732.",
+        "In addition to e-bikes, the sale features other electric-powered equipment. The Worx 40V 20-inch Cordless Electric Snow Thrower, equipped with two 6.0Ah batteries, is available for $395.43. The Jackery HomePower 1000 V2 Portable Power Station, with a 1,024Wh capacity, is priced at $549.",
+        "Other deals include the Greenworks 24V 6-inch Cordless Electric Mini Chainsaw for $95 and the BougeRV Lightweight Foldable Electric Wagon, which has a 360-pound payload capacity, for $279.99."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-16T18:00:00.000Z",
+      "updatedAt": "2026-10-16T18:00:00.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/16/lectric-e-bike-spooky-sale-worx-snow-blower-jackery-1024wh-v2-power-station-more/",
+        "originalTitle": "Lectric treats riders with up to $762 e-bike savings in spooky sale, Worx snow blower, Jackery 1,024Wh V2 power station, more"
+      },
+      "faqs": [
+        {
+          "question": "What savings are available on Lectric e-bikes?",
+          "answer": "Lectric's Spooky Sale offers savings of up to $762 on select e-bike models, with prices starting at $999."
+        },
+        {
+          "question": "What other electric-powered items are on sale?",
+          "answer": "The sale includes a Worx cordless electric snow thrower, a Jackery portable power station, Greenworks mini chainsaws, and a BougeRV electric utility wagon."
+        }
+      ]
+    },
+    {
+      "id": "701ffdabc5833b7d",
+      "section": "news",
+      "slug": "kia-launches-remote-driving-car-sharing-pilot-program-in-south-korea-701ffdab",
+      "headline": "Kia Launches Remote Driving Car-Sharing Pilot Program in South Korea",
+      "dek": "The program utilizes the PV5 electric van and aims to test remote driving technology for commercial applications.",
+      "kicker": "News",
+      "lead": "Kia has initiated a pilot car-sharing program in Pangyo, Gyeonggi Province, South Korea, marking the first of its kind in the country to employ remote driving technology. The service, which began operations on Thursday and will continue until the end of the year, uses the Kia PV5 electric van.",
+      "takeaway": "The program utilizes the PV5 electric van and aims to test remote driving technology for commercial applications.",
+      "body": [
+        "Kia has initiated a pilot car-sharing program in Pangyo, Gyeonggi Province, South Korea, marking the first of its kind in the country to employ remote driving technology. The service, which began operations on Thursday and will continue until the end of the year, uses the Kia PV5 electric van.",
+        "Users can reserve a vehicle through a dedicated app. Once booked, the PV5 electric van will autonomously navigate to the user's location without a driver. After use, customers can park the vehicle at a chosen spot, and a remote operator will then use 4G or 5G wireless technology to return the van to its garage.",
+        "Kia suggests this program can enhance business efficiency by reducing the need for companies to own and manage vehicle fleets. The service also offers convenience in vehicle pickup and drop-off.",
+        "This pilot is part of Kia's broader strategy to advance remote driving technology. The company has previously received regulatory exemptions for remote driving and has collaborated with partners like Socar and KT to demonstrate and develop this technology. Kia plans to use data from this trial to refine the technology and potentially expand the service in 2027."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-16T15:15:59.000Z",
+      "updatedAt": "2026-10-16T15:15:59.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/16/kia-launches-first-remote-driving-car-sharing-service-with-pv5/",
+        "originalTitle": "Kia launches first-of-its-kind remote driving car-sharing service with the PV5 EV van"
+      },
+      "faqs": [
+        {
+          "question": "What is the purpose of the Kia PV5 car-sharing pilot program?",
+          "answer": "The program aims to test and verify remote driving technology and the operational feasibility of a car-sharing service in real-world conditions."
+        },
+        {
+          "question": "How does a user interact with the remote car-sharing service?",
+          "answer": "Users reserve a vehicle via an app, the car drives itself to them, they use it, park it, and a remote driver returns it to the garage."
+        }
+      ]
+    },
+    {
+      "id": "4935946bccc7fb98",
+      "section": "news",
+      "slug": "citroen-unveils-electric-2cv-fourgonnette-concept-4935946b",
+      "headline": "Citroën Unveils Electric 2CV Fourgonnette Concept",
+      "dek": "The French automaker reimagines its classic compact utility vehicle as a battery-electric concept, showcasing a potential future for affordable electric transport.",
+      "kicker": "News",
+      "lead": "Citroën has presented the 2CV Fourgonnette Concept at the 2026 Paris Motor Show, offering an electric vision of its well-known \"boxy duck\" utility vehicle. This concept builds upon the recently introduced 2CV Concept, applying its philosophy of simplicity, lightweight construction, and affordability to a compact commercial vehicle.",
+      "takeaway": "The French automaker reimagines its classic compact utility vehicle as a battery-electric concept, showcasing a potential future for affordable electric transport.",
+      "body": [
+        "Citroën has presented the 2CV Fourgonnette Concept at the 2026 Paris Motor Show, offering an electric vision of its well-known \"boxy duck\" utility vehicle. This concept builds upon the recently introduced 2CV Concept, applying its philosophy of simplicity, lightweight construction, and affordability to a compact commercial vehicle.",
+        "The concept aims to translate the accessible nature of electric mobility into a practical, small van format. It represents an exploration of how iconic designs can be adapted for the electric era.",
+        "While the concept has been revealed, Citroën has not yet announced any firm production plans for the electric 2CV Fourgonnette."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-15T16:30:00.000Z",
+      "updatedAt": "2026-10-15T16:30:00.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/15/citroen-reimagines-the-2cv-fourgonnette-as-a-bev/",
+        "originalTitle": "Citroën reimagines the 2CV Fourgonnette as a BEV"
+      },
+      "faqs": [
+        {
+          "question": "What is the Citroën 2CV Fourgonnette Concept?",
+          "answer": "It is an electric concept vehicle based on Citroën's classic 2CV Fourgonnette utility van."
+        },
+        {
+          "question": "Will the electric 2CV Fourgonnette be produced?",
+          "answer": "Citroën has not yet made any concrete plans for the production of the electric 2CV Fourgonnette."
+        }
+      ]
+    },
+    {
+      "id": "1996a1d29675d57b",
+      "section": "economy",
+      "slug": "superpanther-eyes-european-expansion-for-etopas-600-electric-truck-1996a1d2",
+      "headline": "SuperPanther Eyes European Expansion for eTOPAS 600 Electric Truck",
+      "dek": "The company aims to significantly increase sales of its eTOPAS 600 electric truck across Europe, citing its cost-effectiveness compared to diesel alternatives.",
+      "kicker": "Economy",
+      "lead": "SuperPanther is preparing to accelerate the sales of its eTOPAS 600 electric truck throughout Europe. The company sees the vehicle as a key component of its European growth strategy.",
+      "takeaway": "The company aims to significantly increase sales of its eTOPAS 600 electric truck across Europe, citing its cost-effectiveness compared to diesel alternatives.",
+      "body": [
+        "SuperPanther is preparing to accelerate the sales of its eTOPAS 600 electric truck throughout Europe. The company sees the vehicle as a key component of its European growth strategy.",
+        "Frank Schulz, Head of European Sales for SuperPanther, discussed the initial customer deployments and performance metrics of the eTOPAS 600. He highlighted the truck's consumption figures and its dual-CCS charging capability, which serves as a transitional solution before the widespread adoption of Megawatt Charging System (MCS).",
+        "SuperPanther plans to ramp up production to several hundred vehicles in the near future. This expansion is supported by the company's assessment of the electric truck's economic viability."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-15T12:04:13.000Z",
+      "updatedAt": "2026-10-15T12:04:13.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/15/superpanther-etopas-600-at-centre-of-european-growth-strategy/",
+        "originalTitle": "SuperPanther: eTopas 600 at centre of European growth strategy"
+      },
+      "faqs": [
+        {
+          "question": "What is SuperPanther's main goal for its eTOPAS 600?",
+          "answer": "SuperPanther aims to rapidly scale up sales of its eTOPAS 600 electric truck in Europe."
+        },
+        {
+          "question": "What is the economic advantage of the eTOPAS 600?",
+          "answer": "The company states that the electric truck is already more cost-effective than a diesel truck in terms of total cost of ownership."
+        }
+      ]
+    },
+    {
+      "id": "4eb72025dc09166a",
+      "section": "economy",
+      "slug": "phev-emissions-significantly-higher-than-official-ratings-study-finds-4eb72025",
+      "headline": "PHEV Emissions Significantly Higher Than Official Ratings, Study Finds",
+      "dek": "Real-world data shows plug-in hybrid vehicles emit nearly six times more than reported, prompting calls for regulatory adjustments and revised taxation.",
+      "kicker": "Economy",
+      "lead": "New analysis of 2024 real-world data reveals a substantial discrepancy between the official emissions ratings of plug-in hybrid electric vehicles (PHEVs) and their actual performance. On average, PHEVs emitted nearly six times more than their reported figures, a gap that has widened due to a market shift towards heavier, more powerful, and longer-range models with insufficient electric motor capacity.",
+      "takeaway": "Real-world data shows plug-in hybrid vehicles emit nearly six times more than reported, prompting calls for regulatory adjustments and revised taxation.",
+      "body": [
+        "New analysis of 2024 real-world data reveals a substantial discrepancy between the official emissions ratings of plug-in hybrid electric vehicles (PHEVs) and their actual performance. On average, PHEVs emitted nearly six times more than their reported figures, a gap that has widened due to a market shift towards heavier, more powerful, and longer-range models with insufficient electric motor capacity.",
+        "The findings highlight the critical need for the upcoming November 2026/27 utility factor (UF) correction, designed to align official accounting with real-world climate impact and encourage improved vehicle performance. Evidence from a previous UF correction in 2025 suggests that such adjustments can lead to reduced CO2 emissions through technological advancements and extended electric ranges.",
+        "However, current taxation policies in most EU Member States do not adequately differentiate between high-emitting PHEVs and those with superior performance. This lack of distinction, coupled with company car purchases dominating the PHEV market, means that less efficient models often receive preferential treatment.",
+        "Analysis indicates that PHEVs are driven in pure electric mode only 27% of the time. Models with longer electric ranges, exceeding 70 km, exhibited a larger emissions gap compared to shorter-range vehicles. Conversely, PHEVs with a higher ratio of electric to combustion power demonstrate significantly lower real-world emissions.",
+        "Recent PHEV models launched after the 2025 UF correction show manufacturers are increasing electric range and battery size to offset the impact of UF adjustments. This has led to improved efficiency, with increased battery size only marginally affecting vehicle price. Projections suggest that electric ranges of 140–220 km will be necessary for PHEVs to remain at or below 50 gCO2/km by 2030.",
+        "The study urges European co-legislators to uphold the planned UF correction, emphasizing that it is a technical methodology to ensure accurate emissions reporting. It also recommends that taxation systems be revised to incorporate stricter CO2 and electric-range criteria, ensuring that better-performing PHEVs are appropriately rewarded."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-15T03:05:17.000Z",
+      "updatedAt": "2026-10-15T03:05:17.000Z",
+      "attribution": {
+        "source": "CleanTechnica Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/10/14/still-smoking-the-phev-emissions-scandal-continues/",
+        "originalTitle": "Still Smoking: The PHEV Emissions Scandal Continues"
+      },
+      "faqs": [
+        {
+          "question": "What is the main issue with current PHEV emissions reporting?",
+          "answer": "Real-world emissions for PHEVs are significantly higher than officially reported figures, with average emissions nearly six times greater than WLTP test values."
+        },
+        {
+          "question": "What is the proposed solution to address the PHEV emissions gap?",
+          "answer": "The upcoming November 2026/27 utility factor correction aims to align official reporting with real-world performance, and taxation policies should be updated to better incentivize higher-performing PHEVs."
+        }
+      ]
+    },
+    {
+      "id": "f21cd65bf2fe2a76",
+      "section": "economy",
+      "slug": "tesla-roadster-launch-faces-scrutiny-amidst-starlink-controversy-and-pol-f21cd65b",
+      "headline": "Tesla Roadster Launch Amidst Controversy",
+      "dek": "The highly anticipated re-launch of the Tesla Roadster EV is overshadowed by Elon Musk's recent actions regarding Starlink service in Ukraine and his significant political donations.",
+      "kicker": "Economy",
+      "lead": "Tesla is preparing for the October 15 re-launch of its Roadster EV, an event CEO Elon Musk has described as potentially \"among the most exciting product unveils ever.\" Speculation has arisen that the vehicle might feature hovering or flying capabilities, fueled by its unveiling at SpaceX facilities and a previous mention of \"radical new 'flying' Roadster\" by The Information.",
+      "takeaway": "The highly anticipated re-launch of the Tesla Roadster EV is overshadowed by Elon Musk's recent actions regarding Starlink service in Ukraine and his significant political donations.",
+      "body": [
+        "Tesla is preparing for the October 15 re-launch of its Roadster EV, an event CEO Elon Musk has described as potentially \"among the most exciting product unveils ever.\" Speculation has arisen that the vehicle might feature hovering or flying capabilities, fueled by its unveiling at SpaceX facilities and a previous mention of \"radical new 'flying' Roadster\" by The Information.",
+        "However, the Roadster's launch is occurring under a cloud of negative press for Musk. Recent reports indicate that SpaceX has limited Ukraine's use of its Starlink internet service, impacting the country's defense capabilities. This decision has drawn criticism, particularly from Poland, which is funding a significant portion of Starlink's cost in Ukraine.",
+        "Adding to the controversy, Musk has been a major financial supporter of Republican political groups. Since July, he has reportedly funneled over $276 million into Republican organizations and his Super PAC, aiming to influence the 2026 midterm elections. Concerns have also been raised about the accuracy of information disseminated by his political action committee.",
+        "Further scrutiny surrounds Musk's past role leading a budget-cutting office, where former staffers reportedly leveraged their government experience to raise substantial funds for private sector firms in areas like cyberwarfare and AI."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-15T00:31:35.000Z",
+      "updatedAt": "2026-10-15T00:31:35.000Z",
+      "attribution": {
+        "source": "CleanTechnica Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/10/14/tesla-ev-roadster-launch-elon-musk-ukraine-starlink-doge/",
+        "originalTitle": "Tesla’s Flying Car Flies Into Perfect Storm Of Bad Press (Updated)"
+      },
+      "faqs": [
+        {
+          "question": "When is the Tesla Roadster EV scheduled to launch?",
+          "answer": "The Tesla Roadster EV is scheduled to launch on October 15."
+        },
+        {
+          "question": "What controversies are surrounding Elon Musk?",
+          "answer": "Elon Musk is facing controversy over SpaceX's limitations on Starlink service for Ukraine and his substantial financial contributions to Republican political groups."
+        }
+      ]
+    },
+    {
+      "id": "f827b5f06ee91743",
+      "section": "news",
+      "slug": "university-of-tennessee-electrifies-garbage-fleet-with-local-manufacturi-f827b5f0",
+      "headline": "University of Tennessee Electrifies Garbage Fleet with Local Manufacturing",
+      "dek": "The University of Tennessee has deployed a new electric garbage truck manufactured in Tennessee, aiming to reduce emissions and noise on campus.",
+      "kicker": "News",
+      "lead": "The University of Tennessee has introduced a new McNeilus Volterra ZFL electric garbage truck to its fleet at the Knoxville campus. This initiative integrates advanced battery-electric waste collection technology with manufacturing from Tennessee.",
+      "takeaway": "The University of Tennessee has deployed a new electric garbage truck manufactured in Tennessee, aiming to reduce emissions and noise on campus.",
+      "body": [
+        "The University of Tennessee has introduced a new McNeilus Volterra ZFL electric garbage truck to its fleet at the Knoxville campus. This initiative integrates advanced battery-electric waste collection technology with manufacturing from Tennessee.",
+        "The university selected the McNeilus Volterra electric platform, built in Tennessee, to decrease tailpipe emissions and diesel fuel consumption. The electric truck also offers benefits such as regenerative braking and quieter operation, which is particularly advantageous for early morning collection routes near campus buildings.",
+        "Campus waste and recycling routes are considered a suitable application for electrification due to frequent stops and starts, low operating speeds under heavy loads, and the presence of significant pedestrian and vehicle traffic.",
+        "The McNeilus Volterra is a Class 8 electric refuse truck equipped with a 499 kWh battery pack, with an optional 665 kWh pack available. The manufacturer states the truck is designed for full-day operation on a single charge, with published specifications indicating a route capability of up to 110 miles over a 10-hour shift."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-14T18:36:08.000Z",
+      "updatedAt": "2026-10-14T18:36:08.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/14/orange-is-the-new-green-as-university-of-tennessee-electrifies-its-garbage-fleet/",
+        "originalTitle": "Orange is the new green as University of Tennessee electrifies its garbage fleet"
+      },
+      "faqs": [
+        {
+          "question": "What type of electric truck has the University of Tennessee deployed?",
+          "answer": "The University of Tennessee has deployed a McNeilus Volterra ZFL electric garbage truck."
+        },
+        {
+          "question": "What are the benefits of using electric garbage trucks on campus?",
+          "answer": "Electric garbage trucks can reduce tailpipe emissions, decrease diesel fuel use, and operate more quietly, which is beneficial for early morning routes near campus buildings."
+        }
+      ]
+    },
+    {
+      "id": "103be8f4bce80e2f",
+      "section": "news",
+      "slug": "lectric-launches-new-xpress-lite-e-bike-continues-bundle-deals-103be8f4",
+      "headline": "Lectric Launches New XPress Lite E-bike, Continues Bundle Deals",
+      "dek": "The company introduces a lightweight city e-bike for $1,099, while offering bundled accessories with other models.",
+      "kicker": "News",
+      "lead": "Lectric has launched its new XPress Lite e-bike, a 46-pound model designed for urban commuters, priced at $1,099. The company is also continuing bundle deals for its XPress2 Cruiser and Commuter e-bikes, which are available for $1,299 and include $336 worth of free gear.",
+      "takeaway": "The company introduces a lightweight city e-bike for $1,099, while offering bundled accessories with other models.",
+      "body": [
+        "Lectric has launched its new XPress Lite e-bike, a 46-pound model designed for urban commuters, priced at $1,099. The company is also continuing bundle deals for its XPress2 Cruiser and Commuter e-bikes, which are available for $1,299 and include $336 worth of free gear.",
+        "The XPress Lite is positioned as a more manageable option for city dwellers. While the new model does not come with bundled accessories during its preorder phase, shipping is expected around November.",
+        "The XPress2 models, offered at $1,299, come with a package that includes a rear cargo rack, fender set, suspension seat post, and an Elite headlight. These deals extend from a previous sale event.",
+        "In addition to e-bikes, other deals include the EcoFlow 572Wh RIVER 3 Max power station at a new low of $303.05 with a discount code, or $319 with a free tool pegboard. Cordless electric snow blowers from EGO and Greenworks are also available at discounted prices, along with Worx's 40V 3-in-1 leaf blower/vacuum/mulcher."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-14T18:00:00.000Z",
+      "updatedAt": "2026-10-14T18:00:00.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/14/lectric-xpress-lite-e-bike-ecoflow-572wh-river-3-max-snow-blower-more/",
+        "originalTitle": "Lectric XPress Lite e-bike $1,099 + XPress2 FREE $336 bundle, EcoFlow 572Wh RIVER 3 Max new $303 low, snow blower lows, more"
+      },
+      "faqs": [
+        {
+          "question": "What is the price of the new Lectric XPress Lite e-bike?",
+          "answer": "The new Lectric XPress Lite e-bike is priced at $1,099."
+        },
+        {
+          "question": "What accessories are included with the Lectric XPress2 e-bikes?",
+          "answer": "The Lectric XPress2 e-bikes, priced at $1,299, include a free bundle of accessories valued at $336, such as a rear cargo rack, fender set, suspension seat post, and an Elite headlight."
+        }
+      ]
+    },
+    {
+      "id": "ab53418f7cb101c5",
+      "section": "news",
+      "slug": "ford-opens-preorder-invites-for-upcoming-30-000-fathom-ev-pickup-ab53418f",
+      "headline": "Ford Opens Preorder Invites for Upcoming $30,000 Fathom EV Pickup",
+      "dek": "Ford is inviting potential buyers to sign up for preorder invites for its new Fathom electric pickup, which is slated to start under $30,000 and launch in early 2027.",
+      "kicker": "News",
+      "lead": "Ford has begun accepting preorder invites for its upcoming Fathom electric pickup truck, with official preorders set to open in early 2027. The Fathom is positioned as a more affordable electric pickup option, with a starting price of $28,350 for the standard range battery model, making it significantly less expensive than the F-150 Lightning.",
+      "takeaway": "Ford is inviting potential buyers to sign up for preorder invites for its new Fathom electric pickup, which is slated to start under $30,000 and launch in early 2027.",
+      "body": [
+        "Ford has begun accepting preorder invites for its upcoming Fathom electric pickup truck, with official preorders set to open in early 2027. The Fathom is positioned as a more affordable electric pickup option, with a starting price of $28,350 for the standard range battery model, making it significantly less expensive than the F-150 Lightning.",
+        "This new model is built on Ford's Universal Electric Vehicle (UEV) platform and is expected to represent a significant advancement over the company's first-generation EVs. While specific details on range and towing capacity are still forthcoming, Ford has indicated the Fathom will offer ample passenger space and is projected to have a lower five-year ownership cost compared to a used Tesla Model Y.",
+        "Key interior features will include a large touchscreen display with integrated Apple Maps, a Digital Key, Ford app remote control, and support for Apple CarPlay and Android Auto. All Fathom models will be equipped with BlueCruise for hands-free highway driving and will feature bidirectional charging capabilities.",
+        "The Fathom will utilize lithium iron phosphate (LFP) batteries, a choice aimed at reducing costs, lowering vehicle weight, and maximizing interior space. These batteries will form the floor of the vehicle, contributing to a lower center of gravity for improved handling and a more spacious cabin.",
+        "Ford anticipates the Fathom will offer a dynamic driving experience, with a targeted 0 to 60 mph time comparable to a Mustang EcoBoost. The vehicle will feature an NACS port for charging. Production of the first Fathom prototypes is scheduled to begin at the Louisville Assembly Plant in 2027, with customer deliveries expected later that year."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-14T14:14:40.000Z",
+      "updatedAt": "2026-10-14T14:14:40.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/14/ford-opens-preorder-invites-30000-fathom-ev-pickup/",
+        "originalTitle": "Ford opens preorder invites for the $30,000 Fathom EV pickup"
+      },
+      "faqs": [
+        {
+          "question": "When will preorders for the Ford Fathom open?",
+          "answer": "Official preorders for the Ford Fathom are scheduled to open in early 2027."
+        },
+        {
+          "question": "What is the expected starting price for the Ford Fathom?",
+          "answer": "The Ford Fathom is expected to start at $28,350 for the standard range battery model."
+        }
+      ]
+    },
+    {
+      "id": "12f101827e624bc5",
+      "section": "economy",
+      "slug": "bmw-invests-over-100-million-in-electric-motor-production-in-steyr-12f10182",
+      "headline": "BMW Invests Over €100 Million in Electric Motor Production in Steyr",
+      "dek": "The investment will establish state-of-the-art production of power electronics and inverter components at the Austrian plant by 2029, strengthening technological expertise and value creation.",
+      "kicker": "Economy",
+      "lead": "BMW is set to invest over 100 million euros in its Steyr plant in Austria to establish advanced production capabilities for electric vehicle components. The initiative, slated for completion by 2029, will focus on the manufacturing of power electronics and inverter components.",
+      "takeaway": "The investment will establish state-of-the-art production of power electronics and inverter components at the Austrian plant by 2029, strengthening technological expertise and value creation.",
+      "body": [
+        "BMW is set to invest over 100 million euros in its Steyr plant in Austria to establish advanced production capabilities for electric vehicle components. The initiative, slated for completion by 2029, will focus on the manufacturing of power electronics and inverter components.",
+        "This strategic move is designed to bolster the technological expertise housed within the Steyr facility. By bringing these critical production processes in-house, BMW aims to increase the value created directly by the company.",
+        "The investment also serves to further solidify Austria's position as a key hub for electric mobility know-how. The Steyr plant will play an increasingly vital role in BMW's global electric vehicle strategy.",
+        "This expansion underscores BMW's commitment to advancing its electric mobility offerings and enhancing its production infrastructure for next-generation powertrains."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-14T11:25:32.000Z",
+      "updatedAt": "2026-10-14T11:25:32.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/14/bmw-invests-over-e100-million-in-e-motor-production-in-steyr/",
+        "originalTitle": "BMW invests over €100 million in e-motor production in Steyr"
+      },
+      "faqs": [
+        {
+          "question": "What specific components will BMW produce in Steyr?",
+          "answer": "BMW will produce power electronics and inverter components for electric vehicles in Steyr."
+        },
+        {
+          "question": "When is the new production facility expected to be operational?",
+          "answer": "The new production facility is expected to be operational by 2029."
+        }
+      ]
+    },
+    {
+      "id": "2d8c981c3b313d46",
+      "section": "economy",
+      "slug": "denmark-s-ev-transition-reshapes-fossil-fuel-ecosystem-2d8c981c",
+      "headline": "Denmark's EV Transition Reshapes Fossil Fuel Ecosystem",
+      "dek": "As electric vehicles dominate new car sales in Denmark, traditional automotive services and infrastructure face significant disruption.",
+      "kicker": "Economy",
+      "lead": "Denmark is experiencing a rapid shift in its automotive landscape, with electric vehicles (EVs) now constituting 97% of new private vehicle sales. This transition is prompting a reevaluation of the entire fossil fuel ecosystem, from repair shops to fuel stations.",
+      "takeaway": "As electric vehicles dominate new car sales in Denmark, traditional automotive services and infrastructure face significant disruption.",
+      "body": [
+        "Denmark is experiencing a rapid shift in its automotive landscape, with electric vehicles (EVs) now constituting 97% of new private vehicle sales. This transition is prompting a reevaluation of the entire fossil fuel ecosystem, from repair shops to fuel stations.",
+        "Mechanics in Denmark are adapting to the rise of EVs, with new training courses emerging for EV repair. While basic maintenance like brakes, tires, and suspension remain similar, the core components of internal combustion engines and gearboxes are being replaced by electric drivetrains and battery packs. This requires specialized tools and advanced diagnostic skills, moving beyond traditional mechanical expertise.",
+        "Businesses that relied heavily on internal combustion engine (ICE) services, such as muffler shops and those specializing in oil changes, are expected to decline. The need for routine maintenance on EVs is generally lower than on ICE vehicles, with some manufacturers extending service intervals. This necessitates a transformation for mechanics into highly skilled technicians capable of advanced diagnostics and component optimization.",
+        "The impact extends to the fuel retail sector as well. With the majority of EV charging occurring at home, the market for public charging stations is becoming more competitive, leading to predictions that many traditional gas stations may disappear.",
+        "This transformation in Denmark mirrors trends across Scandinavia, with Norway, Sweden, and Finland also showing significant adoption rates for EVs. The shift is not limited to passenger cars, as these countries are also moving towards zero-emission freight vehicles, further signaling the decline of the petrochemical ecosystem."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-14T00:05:55.000Z",
+      "updatedAt": "2026-10-14T00:05:55.000Z",
+      "attribution": {
+        "source": "CleanTechnica Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/10/13/what-happens-to-the-fossil-fuel-ecosystem-as-evs-take-over-the-road-fleet-case-study-denmark/",
+        "originalTitle": "What Happens To The Fossil Fuel Ecosystem As EVs Take Over The Road Fleet? Case Study: Denmark"
+      },
+      "faqs": [
+        {
+          "question": "How are mechanics adapting to the rise of EVs in Denmark?",
+          "answer": "Mechanics are undergoing retraining for EV-specific repairs and diagnostics, and workshops are adapting their services and signage to reflect the shift."
+        },
+        {
+          "question": "What is the impact on gas stations in Denmark?",
+          "answer": "With most EV charging happening at home, gas stations are facing increased competition for the smaller public charging market, leading to expectations of closures."
+        }
+      ]
+    },
+    {
+      "id": "5d4f89386c4cbc93",
+      "section": "economy",
+      "slug": "european-automakers-assert-ev-leadership-at-paris-motor-show-5d4f8938",
+      "headline": "European Automakers Assert EV Leadership at Paris Motor Show",
+      "dek": "Stellantis and Volkswagen are showcasing significant innovations, signaling a strong European commitment to electric vehicle technology and challenging global competition.",
+      "kicker": "Economy",
+      "lead": "The Paris Motor Show has become a focal point for the global automotive industry, with European manufacturers demonstrating a firm resolve to compete in the electric vehicle (EV) market. Stellantis and Volkswagen, in particular, are at the forefront, presenting a range of new innovations.",
+      "takeaway": "Stellantis and Volkswagen are showcasing significant innovations, signaling a strong European commitment to electric vehicle technology and challenging global competition.",
+      "body": [
+        "The Paris Motor Show has become a focal point for the global automotive industry, with European manufacturers demonstrating a firm resolve to compete in the electric vehicle (EV) market. Stellantis and Volkswagen, in particular, are at the forefront, presenting a range of new innovations.",
+        "This display of technological advancement at the industry event underscores Europe's determination not to concede ground to competitors, especially from China, in the rapidly evolving EV landscape.",
+        "The presence of these major European players and their new offerings highlights a renewed emphasis on domestic EV production and development.",
+        "The automotive sector in Europe is making a clear statement about its capabilities and future direction in electric mobility."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-14T16:30:00.000Z",
+      "updatedAt": "2026-10-14T16:30:00.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/14/europe-is-back-how-vw-stellantis-and-co-shine-in-paris/",
+        "originalTitle": "Europe is back: How VW, Stellantis and Co. shine in Paris"
+      },
+      "faqs": [
+        {
+          "question": "Which European automakers are prominently featured at the Paris Motor Show?",
+          "answer": "Stellantis and Volkswagen are prominently featured at the Paris Motor Show."
+        },
+        {
+          "question": "What is the main message from European automakers at the show?",
+          "answer": "European automakers are signaling their commitment to competing in the electric vehicle market and are not yielding the field to global competitors."
+        }
+      ]
+    },
+    {
+      "id": "8e46ad6c081db882",
+      "section": "economy",
+      "slug": "doug-field-appointed-president-of-rivian-spun-robotics-startup-8e46ad6c",
+      "headline": "Doug Field Appointed President of Rivian-Spun Robotics Startup",
+      "dek": "Former Tesla and Ford EV executive Doug Field will lead product, engineering, and operations at Mind Robotics, a company focused on industrial automation.",
+      "kicker": "Economy",
+      "lead": "Doug Field, who previously led the Model 3 program at Tesla and oversaw Ford's electric vehicle division, has been named president of Mind Robotics. This industrial robotics startup was launched by Rivian CEO RJ Scaringe last year.",
+      "takeaway": "Former Tesla and Ford EV executive Doug Field will lead product, engineering, and operations at Mind Robotics, a company focused on industrial automation.",
+      "body": [
+        "Doug Field, who previously led the Model 3 program at Tesla and oversaw Ford's electric vehicle division, has been named president of Mind Robotics. This industrial robotics startup was launched by Rivian CEO RJ Scaringe last year.",
+        "Field will manage product, engineering, and operations alongside Scaringe at Mind Robotics. The company has secured over $1 billion in funding in less than a year. Field's extensive background includes leadership roles in engineering at Tesla, Apple's special projects group, and Ford's EV operations.",
+        "Mind Robotics, which emerged from Rivian's Q3 2025 earnings report, has rapidly accumulated significant funding. This includes a $115 million seed round, a $500 million Series A, and a $400 million round that valued the company at $3.4 billion. The startup is developing foundational models and specialized robot hardware for manufacturing.",
+        "Rivian is a key shareholder and the initial customer for Mind Robotics, providing access to a high-volume automotive plant for data collection and robot deployment. This arrangement offers Mind a practical environment for testing and refining its technology, contrasting with the more public-facing development of competitors like Tesla's Optimus program.",
+        "Field's appointment signals a significant commitment to industrial automation by Mind Robotics. His expertise in scaling hardware production is seen as crucial for deploying reliable robots in real-world factory settings. This move positions Mind Robotics to address the challenges of industrial robotics development."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-13T19:40:31.000Z",
+      "updatedAt": "2026-10-13T19:40:31.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/",
+        "originalTitle": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief"
+      },
+      "faqs": [
+        {
+          "question": "What is Mind Robotics' primary focus?",
+          "answer": "Mind Robotics is focused on developing foundational models and purpose-built robot hardware for dexterous manufacturing work."
+        },
+        {
+          "question": "What is Doug Field's background?",
+          "answer": "Doug Field has a history of leading engineering and EV programs at major companies including Tesla, Apple, and Ford."
+        }
+      ]
+    },
+    {
+      "id": "8ff1f0b482216641",
+      "section": "news",
+      "slug": "chevrolet-increases-blazer-ev-prices-for-2027-model-year-8ff1f0b4",
+      "headline": "Chevrolet Increases Blazer EV Prices for 2027 Model Year",
+      "dek": "The electric SUV sees a $300 price hike across base and sportier trims, with the LT model now starting above $45,000.",
+      "kicker": "News",
+      "lead": "Chevrolet has raised the starting price for the 2027 Blazer EV, with the base LT trim now beginning at over $45,000. This represents a $300 increase from the previous model year. Including the mandatory $1,795 destination fee, the 2027 Blazer EV LT has a starting Manufacturer's Suggested Retail Price (MSRP) of $46,795.",
+      "takeaway": "The electric SUV sees a $300 price hike across base and sportier trims, with the LT model now starting above $45,000.",
+      "body": [
+        "Chevrolet has raised the starting price for the 2027 Blazer EV, with the base LT trim now beginning at over $45,000. This represents a $300 increase from the previous model year. Including the mandatory $1,795 destination fee, the 2027 Blazer EV LT has a starting Manufacturer's Suggested Retail Price (MSRP) of $46,795.",
+        "The sportier RS trim also experiences a $300 price increase, bringing its starting MSRP to $52,595. The top-tier SS trim's price remains unchanged at $62,495. All-wheel-drive (AWD) is an additional $3,000 for the LT and RS models, while the SS trim comes standard with AWD.",
+        "The 2027 Blazer EV LT and RS models are equipped with an 85 kWh battery, offering an EPA-estimated range of up to 312 miles for front-wheel-drive (FWD) configurations and 283 miles for AWD versions. The SS trim features a larger 102 kWh battery, providing an estimated range of up to 302 miles.",
+        "All new 2027 General Motors electric vehicles, including the Blazer EV, now feature a native NACS port, allowing direct use of Tesla Superchargers. An optional eight-speaker premium Bose sound system is also available for the LT and RS trims, a feature previously exclusive to the SS model. Despite the price increase, the Blazer EV remains competitively positioned against some rivals, though it is longer and offers more interior space than certain competitors."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-13T19:19:06.000Z",
+      "updatedAt": "2026-10-13T19:19:06.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/13/chevy-hikes-blazer-ev-prices-over-45000/",
+        "originalTitle": "Chevy hikes Blazer EV prices, pushing it over $45,000"
+      },
+      "faqs": [
+        {
+          "question": "What is the starting price for the 2027 Chevy Blazer EV LT?",
+          "answer": "The 2027 Chevy Blazer EV LT starts at $46,795, including the destination fee."
+        },
+        {
+          "question": "What is the maximum EPA-estimated range for the 2027 Chevy Blazer EV?",
+          "answer": "The FWD LT and RS models offer an EPA-estimated range of up to 312 miles."
+        }
+      ]
+    }
+  ]
+}

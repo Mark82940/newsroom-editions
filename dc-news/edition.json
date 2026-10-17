@@ -1,0 +1,165 @@
+{
+  "outletSlug": "dc-news",
+  "generatedAt": "2026-10-17T08:07:35.633Z",
+  "sourceCount": 1,
+  "articles": [
+    {
+      "id": "0cb440c3710b78bc",
+      "section": "news",
+      "slug": "former-fbi-employees-sue-for-reinstatement-after-classified-documents-pr-0cb440c3",
+      "headline": "Former FBI Employees Sue for Reinstatement After Classified Documents Probe Firings",
+      "dek": "Nine former FBI agents, analysts, and specialists terminated for their involvement in the investigation into Donald Trump's handling of classified documents have filed a lawsuit seeking to reclaim their positions, alleg…",
+      "kicker": "News",
+      "lead": "Nine former FBI employees have filed a lawsuit in federal court in Washington, D.C., seeking to be reinstated to their positions. The employees, who include agents, intelligence analysts, and staff operations specialists, were fired in February for their roles in the investigation of former President Donald Trump's retention of classified documents at his Mar-a-Lago estate.",
+      "takeaway": "Nine former FBI agents, analysts, and specialists terminated for their involvement in the investigation into Donald Trump's handling of classified documents have filed a lawsuit seeking to reclaim their positions, alleg…",
+      "body": [
+        "Nine former FBI employees have filed a lawsuit in federal court in Washington, D.C., seeking to be reinstated to their positions. The employees, who include agents, intelligence analysts, and staff operations specialists, were fired in February for their roles in the investigation of former President Donald Trump's retention of classified documents at his Mar-a-Lago estate.",
+        "The lawsuit alleges that the terminations were unlawful acts of \"political retribution\" and were carried out without any investigation, notice, or hearing. The plaintiffs claim they had over a century of combined service to the FBI, with experience in significant events such as the Boston Marathon bombing and hostage recoveries. They argue their firings represent an \"immeasurable loss\" to national security.",
+        "Attorneys for the fired employees stated that their clients were dismissed for performing their jobs without bias, which they characterized as an \"offense\" to the current administration. The suit aims to prove their dismissal was unlawful and hold the administration accountable for what they describe as an attack on the rule of law.",
+        "The lawsuit details allegations against Trump regarding the improper storage and display of classified documents, and his obstruction of FBI efforts to retrieve them. This investigation led to a search of Mar-a-Lago and subsequent federal charges against Trump, though the case was later dismissed by a judge.",
+        "The plaintiffs contend they were assigned to the investigation, code-named \"Plasmic Echo,\" and were terminated based on a \"baseless perception\" that their work was politically motivated. They assert that their personal political convictions were wrongly presumed to affect their professional duties.",
+        "Lawyers for the former employees suggest the firings were the culmination of a retribution campaign, initiated after Trump's return to the White House in 2025. They point to past criticisms of the Mar-a-Lago investigation by FBI Director Kash Patel, who previously derided the search and participants.",
+        "The suit seeks remedies including reinstatement, back pay, and a court declaration that the firings were unlawful. The plaintiffs also note that other FBI employees have been dismissed without proper process for various reasons, including participation in protests and involvement in intelligence assessments."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-16T22:30:09.000Z",
+      "updatedAt": "2026-10-16T22:30:09.000Z",
+      "attribution": {
+        "source": "Federal News Network",
+        "url": "https://federalnewsnetwork.com/workforce/2026/10/fbi-agents-and-analysts-fired-for-roles-in-trump-classified-files-probe-sue-to-get-their-jobs-back/",
+        "originalTitle": "FBI agents and analysts fired for roles in Trump classified files probe sue to get their jobs back"
+      },
+      "faqs": [
+        {
+          "question": "Why are the former FBI employees suing?",
+          "answer": "They are suing to get their jobs back, alleging their terminations were unlawful acts of political retribution for their roles in the investigation of Donald Trump's classified documents."
+        },
+        {
+          "question": "What remedies are the former employees seeking?",
+          "answer": "The lawsuit seeks remedies including reinstatement to the FBI, an award of back pay, and a court order declaring the firings unlawful."
+        }
+      ]
+    },
+    {
+      "id": "15ffb4486a25679a",
+      "section": "economy",
+      "slug": "gao-finds-administration-violated-impoundment-control-act-15ffb448",
+      "headline": "GAO Finds Administration Violated Impoundment Control Act",
+      "dek": "The Government Accountability Office has issued another finding that the administration has violated the Impoundment Control Act, raising questions about congressional oversight.",
+      "kicker": "Economy",
+      "lead": "The Government Accountability Office (GAO) has reported another instance where the administration has violated the Impoundment Control Act. This latest finding pertains to education and health research funding. The violations have led to discussions about the separation of powers between Congress and the executive branch.",
+      "takeaway": "The Government Accountability Office has issued another finding that the administration has violated the Impoundment Control Act, raising questions about congressional oversight.",
+      "body": [
+        "The Government Accountability Office (GAO) has reported another instance where the administration has violated the Impoundment Control Act. This latest finding pertains to education and health research funding. The violations have led to discussions about the separation of powers between Congress and the executive branch.",
+        "These actions, particularly those by the current administration and OMB Director Russ Vought, are seen by some as challenging the established restrictions on executive power. While Congress may not take immediate action, this pattern is expected to generate significant debate, especially with potential shifts in congressional control following upcoming elections.",
+        "Senator Collins has suggested that the GAO possesses the authority to sue the administration in cases of impoundment violations. This legal recourse, though available, has not been frequently utilized. The GAO has the power to take the administration to court when it finds a violation of impoundment laws.",
+        "Questions have also arisen regarding the leadership at the GAO, which is currently headed by an acting Comptroller General. Some suggest that the absence of a permanent leader might influence the decision to engage in legal action against the administration, potentially due to political considerations.",
+        "There is also discussion about potential candidates for the permanent Comptroller General position, with some noting that an individual with a background in OMB might face scrutiny due to existing tensions between Congress and the administration over spending powers.",
+        "The ongoing issues with impoundment control and other fiscal practices are prompting lawmakers to consider how to strengthen congressional rights and oversight when they return to session. This dynamic is likely to intensify in the coming year."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-13T17:59:54.000Z",
+      "updatedAt": "2026-10-13T17:59:54.000Z",
+      "attribution": {
+        "source": "Federal News Network",
+        "url": "https://federalnewsnetwork.com/congress/2026/10/is-congress-losing-control-over-the-spending-power-of-the-purse/",
+        "originalTitle": "Is Congress losing control over the spending power of the purse?"
+      },
+      "faqs": [
+        {
+          "question": "What is the Impoundment Control Act?",
+          "answer": "The Impoundment Control Act of 1974 governs the process by which the executive branch can withhold or delay the spending of funds appropriated by Congress."
+        },
+        {
+          "question": "What authority does the GAO have regarding impoundment violations?",
+          "answer": "The GAO has the authority to find violations of the Impoundment Control Act and can also pursue legal action by suing the administration in court."
+        }
+      ]
+    },
+    {
+      "id": "2d4d9da874c4c0a5",
+      "section": "economy",
+      "slug": "white-house-rescinds-800-million-in-spending-sparking-legal-challenges-2d4d9da8",
+      "headline": "White House Rescinds $800 Million in Spending, Sparking Legal Challenges",
+      "dek": "The administration's use of 'pocket rescissions' to cancel congressionally approved funds faces opposition from Democrats and legal scrutiny.",
+      "kicker": "Economy",
+      "lead": "The White House has rescinded over $800 million in congressionally approved spending through a process known as \"pocket rescissions.\" This action, taken just before the start of the fiscal year on October 1st, has drawn immediate criticism from Democrats who argue the move is illegal. Several federal lawsuits have been filed challenging these rescissions on various grounds.",
+      "takeaway": "The administration's use of 'pocket rescissions' to cancel congressionally approved funds faces opposition from Democrats and legal scrutiny.",
+      "body": [
+        "The White House has rescinded over $800 million in congressionally approved spending through a process known as \"pocket rescissions.\" This action, taken just before the start of the fiscal year on October 1st, has drawn immediate criticism from Democrats who argue the move is illegal. Several federal lawsuits have been filed challenging these rescissions on various grounds.",
+        "These rescissions target funding for programs including immigrant services, civil rights protections for minority groups, and climate change initiatives. The administration contends these programs represent a waste of money. However, efforts by Democratic Senators Patty Murray and Jeff Merkley to block these cuts through unanimous consent in the Senate were unsuccessful due to an objection from Senator Ron Johnson.",
+        "This latest action is seen as another attempt by the administration to test the Impoundment Control Act, which requires congressional approval for rescissions. Last year, similar rescissions totaling over $4 billion in foreign aid were upheld by the Supreme Court, largely based on the president's foreign affairs authority.",
+        "The Government Accountability Office (GAO) has also issued findings indicating that the administration has violated the Impoundment Control Act. Despite these findings, the administration appears prepared to continue challenging the act, even as legal battles over the rescissions unfold. The Senate also confirmed Keith Sonderling as the new Labor Secretary before adjourning."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-05T19:02:32.000Z",
+      "updatedAt": "2026-10-05T19:02:32.000Z",
+      "attribution": {
+        "source": "Federal News Network",
+        "url": "https://federalnewsnetwork.com/congress/2026/10/congress-may-be-in-recess-but-the-unfinished-business-is-piling-up/",
+        "originalTitle": "Congress may be in recess, but the unfinished business is piling up"
+      },
+      "faqs": [
+        {
+          "question": "What is a pocket rescission?",
+          "answer": "A pocket rescission is a method used by the executive branch to cancel congressionally approved spending, often by withholding funds until a deadline passes, preventing Congress from reallocating them."
+        },
+        {
+          "question": "What is the Impoundment Control Act?",
+          "answer": "The Impoundment Control Act is a federal law that requires the executive branch to obtain approval from Congress before rescinding or impounding funds that have been appropriated."
+        }
+      ],
+      "image": {
+        "src": "/media/2d4d9da874c4c0a5.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Capitol dome, legal brief, money stack, gavel, torn document",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #F4F7FB, not white, not grey. Linework #0B1220. Accent #1D4E89. Secondary #1D4E89. Rule #D5DEEA. Story palette notes: Greys, blues, parchment. Brand palette: use #F4F7FB, #0B1220, #1D4E89, #D5DEEA, #1D4E89. Scene: Government building exterior. Mood: Contentious. Story objects that must appear: Capitol dome, legal brief, money stack, gavel, torn document. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "e8622f3dbe4f2d3c",
+      "section": "economy",
+      "slug": "senate-stays-in-washington-to-vote-on-key-legislation-e8622f3d",
+      "headline": "Senate Stays in Washington to Vote on Key Legislation",
+      "dek": "Lawmakers will consider bills on diesel fuel, energy permitting, and college sports before the upcoming election, while confirmations remain uncertain.",
+      "kicker": "Economy",
+      "lead": "The Senate has decided to remain in Washington D.C. for the remainder of the week to address several legislative priorities. This decision came after deliberation on whether senators, particularly those facing re-election, would be better served by staying to work on legislation or returning to their home states to campaign.",
+      "takeaway": "Lawmakers will consider bills on diesel fuel, energy permitting, and college sports before the upcoming election, while confirmations remain uncertain.",
+      "body": [
+        "The Senate has decided to remain in Washington D.C. for the remainder of the week to address several legislative priorities. This decision came after deliberation on whether senators, particularly those facing re-election, would be better served by staying to work on legislation or returning to their home states to campaign.",
+        "Among the key issues on the agenda are potential actions regarding diesel fuel costs, including discussions around an export ban, and efforts to streamline permitting processes for energy and data center projects. These initiatives have been subjects of ongoing debate and negotiation among senators.",
+        "Additionally, the Senate is scheduled for a final vote on a college sports renovation bill. This legislation has garnered significant support, though some lawmakers, including members of the Congressional Black Caucus and Senator Cory Booker, have raised concerns about its potential impact on Black college athletes.",
+        "The Senate will also address numerous confirmations for vacant positions, particularly within the Defense Department, and the nominee for Secretary of Labor. However, the scheduling for these confirmations remains unclear, with the possibility of them being addressed in a post-election \"lame duck\" session.",
+        "While the Senate remains in session, the House of Representatives has adjourned and has shown no inclination to return, except possibly for budget-related matters. Any legislation passed by the Senate would require subsequent action from the House."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-09-28T19:55:25.000Z",
+      "updatedAt": "2026-09-28T19:55:25.000Z",
+      "attribution": {
+        "source": "Federal News Network",
+        "url": "https://federalnewsnetwork.com/congress/2026/09/the-closer-congress-gets-to-election-day-the-harder-it-becomes-to-choose-between-governing-and-campaigning/",
+        "originalTitle": "The closer Congress gets to Election Day, the harder it becomes to choose between governing and campaigning"
+      },
+      "faqs": [
+        {
+          "question": "What legislative issues is the Senate planning to vote on this week?",
+          "answer": "The Senate plans to vote on issues related to diesel fuel costs, energy project permitting, and a college sports renovation bill."
+        },
+        {
+          "question": "What happens to nominees if they are not confirmed by the end of the current Congress?",
+          "answer": "Nominees who are not confirmed by the end of the current Congress must be re-nominated by the President to the next Congress."
+        }
+      ],
+      "image": {
+        "src": "/media/e8622f3dbe4f2d3c.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Dome, columns, scrolls, gavel, scales, inkwell",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #F4F7FB, not white, not grey. Linework #0B1220. Accent #1D4E89. Secondary #1D4E89. Rule #D5DEEA. Story palette notes: Stone grey, parchment white, deep wood tones. Brand palette: use #F4F7FB, #0B1220, #1D4E89, #D5DEEA, #1D4E89. Scene: Legislative chamber. Mood: Persistent. Story objects that must appear: Dome, columns, scrolls, gavel, scales, inkwell. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    }
+  ]
+}

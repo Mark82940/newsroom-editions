@@ -1,0 +1,978 @@
+{
+  "articles": [
+    {
+      "id": "54bb2b4f822764f6",
+      "section": "news",
+      "slug": "ecoflow-launches-titan-whole-home-backup-system-with-early-bird-deposit-54bb2b4f",
+      "headline": "EcoFlow Launches TITAN Whole-Home Backup System with Early Bird Deposit",
+      "dek": "Homeowners can secure up to $2,999 in savings on the new backup system by placing a $50 deposit before its November launch.",
+      "kicker": "News",
+      "lead": "EcoFlow is introducing its new TITAN Series Whole-Home Backup System, with an early-bird offer allowing customers to place a $50 deposit to lock in savings of up to $2,999. The system, which officially launches in November, aims to address rising utility bills and the potential for grid failures.",
+      "takeaway": "Homeowners can secure up to $2,999 in savings on the new backup system by placing a $50 deposit before its November launch.",
+      "body": [
+        "EcoFlow is introducing its new TITAN Series Whole-Home Backup System, with an early-bird offer allowing customers to place a $50 deposit to lock in savings of up to $2,999. The system, which officially launches in November, aims to address rising utility bills and the potential for grid failures.",
+        "The TITAN Series will include three models: the TITAN 5000 Classic, TITAN 5000, and TITAN 5000 Plus. The early-bird deposit secures a place for these units, with the remaining balance due upon the official release.",
+        "In addition to the TITAN series, EcoFlow is running a 48-hour flash sale. This sale includes a bundle featuring the DELTA Pro Power Station with a 400W solar panel for $2,279. Other power station bundles and an expansion battery are available with discounts of up to 38%.",
+        "Other deals highlighted include the Heybike Mars 3.0 Folding Full Suspension e-bike at a new low of $1,099, Anker eufy Solar Wall Light Cam S4 starting at $200, and a Greenworks 40V cordless snow shovel kit for $240."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-13T18:00:00.000Z",
+      "updatedAt": "2026-10-13T18:00:00.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/13/ecoflow-titan-whole-home-backup-system-mars-3-0-e-bike-anker-solar-wall-light-cam-more/",
+        "originalTitle": "EcoFlow early-bird TITAN series whole-home backup system deal, Mars 3.0 e-bike at new $1,099 low, Anker solar wall light cam, more"
+      },
+      "faqs": [
+        {
+          "question": "What is the EcoFlow TITAN Series Whole-Home Backup System?",
+          "answer": "The TITAN Series is a new line of whole-home backup power systems from EcoFlow designed to provide energy security for homes."
+        },
+        {
+          "question": "How can I save money on the EcoFlow TITAN Series?",
+          "answer": "You can save up to $2,999 by placing a $50 early-bird deposit before the system's official launch in November."
+        }
+      ]
+    },
+    {
+      "id": "5d443cc4eafb3be0",
+      "section": "news",
+      "slug": "fraunhofer-ipa-develops-stable-aluminum-anodes-for-lithium-ion-batteries-5d443cc4",
+      "headline": "Fraunhofer IPA Develops Stable Aluminum Anodes for Lithium-Ion Batteries",
+      "dek": "Researchers have created a new technology to manage volume changes in aluminum anodes, paving the way for their use in practical battery applications.",
+      "kicker": "News",
+      "lead": "Fraunhofer IPA, in collaboration with the University of Stuttgart, has announced a breakthrough in battery technology with the development of a new cell and electrode system for aluminum anodes. This innovation addresses a significant challenge that has previously hindered the widespread adoption of aluminum in lithium-ion batteries.",
+      "takeaway": "Researchers have created a new technology to manage volume changes in aluminum anodes, paving the way for their use in practical battery applications.",
+      "body": [
+        "Fraunhofer IPA, in collaboration with the University of Stuttgart, has announced a breakthrough in battery technology with the development of a new cell and electrode system for aluminum anodes. This innovation addresses a significant challenge that has previously hindered the widespread adoption of aluminum in lithium-ion batteries.",
+        "The primary issue with aluminum anodes has been their tendency to undergo substantial volume changes during the charging and discharging cycles. These fluctuations can lead to instability and reduced battery lifespan, making them impractical for many applications.",
+        "The newly developed technology aims to stabilize these volume changes, making them manageable for practical battery use. By controlling the expansion and contraction of the aluminum anode, the researchers have overcome a key obstacle.",
+        "This advancement could have significant implications for the future of energy storage, potentially leading to more efficient and cost-effective batteries for various applications, including electric vehicles."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "updatedAt": "2026-10-13T13:00:00.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/13/fraunhofer-stabilises-aluminium-anodes-for-lithium-ion-batteries/",
+        "originalTitle": "Fraunhofer stabilises aluminium anodes for lithium-ion batteries"
+      },
+      "faqs": [
+        {
+          "question": "What problem does the new Fraunhofer IPA technology solve?",
+          "answer": "The technology stabilizes the volume changes that occur in aluminum anodes during charging and discharging cycles."
+        },
+        {
+          "question": "What is the potential impact of this development?",
+          "answer": "It could enable the practical use of aluminum as an anode material in lithium-ion batteries, potentially leading to more efficient and cost-effective energy storage solutions."
+        }
+      ]
+    },
+    {
+      "id": "2822ad5130081197",
+      "section": "news",
+      "slug": "renault-and-edf-launch-bidirectional-ev-charging-in-france-2822ad51",
+      "headline": "Renault and EDF Launch Bidirectional EV Charging in France",
+      "dek": "New offering allows electric vehicle owners to send power back to the grid, integrating EVs into energy management.",
+      "kicker": "News",
+      "lead": "Renault Group and Électricité de France (EDF) are set to introduce a new bidirectional charging service in France next summer. This initiative will enable owners of electric vehicles from Renault, Alpine, and Dacia brands to return power from their car batteries to the electrical grid.",
+      "takeaway": "New offering allows electric vehicle owners to send power back to the grid, integrating EVs into energy management.",
+      "body": [
+        "Renault Group and Électricité de France (EDF) are set to introduce a new bidirectional charging service in France next summer. This initiative will enable owners of electric vehicles from Renault, Alpine, and Dacia brands to return power from their car batteries to the electrical grid.",
+        "The comprehensive solution includes the electric vehicle itself, a compatible wallbox for charging, and sophisticated charging management software. This system aims to integrate electric cars more deeply into the energy infrastructure.",
+        "By allowing vehicles to feed power back into the grid, the offering supports grid stability and potentially offers new ways for EV owners to manage their energy consumption and contribution.",
+        "The service is expected to be available to customers across France starting next summer, marking a significant step in the evolution of electric vehicle utility beyond simple transportation."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-12T14:52:18.000Z",
+      "updatedAt": "2026-10-12T14:52:18.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/12/renault-and-edf-unveil-bidirectional-charging-offering/",
+        "originalTitle": "Renault and EDF unveil bidirectional charging offering"
+      },
+      "faqs": [
+        {
+          "question": "Which car brands will be compatible with the new charging offering?",
+          "answer": "Electric vehicles from the Renault, Alpine, and Dacia brands will be compatible with the new offering."
+        },
+        {
+          "question": "What does bidirectional charging allow EV owners to do?",
+          "answer": "Bidirectional charging allows EV owners to feed power back from their vehicle's battery into the electrical grid."
+        }
+      ],
+      "image": {
+        "src": "/media/2822ad5130081197.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Electric vehicle, Charging cable, Utility pole, Solar panel, Battery pack, Dusty road",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Warm ochre, sky blue, charcoal, metallic silver. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Community energy point. Mood: Progressive. Story objects that must appear: Electric vehicle, Charging cable, Utility pole, Solar panel, Battery pack, Dusty road. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "dbcb3e426aeba488",
+      "section": "economy",
+      "slug": "bmw-group-reports-third-quarter-sales-decline-driven-by-bev-growth-dbcb3e42",
+      "headline": "BMW Group Reports Third Quarter Sales Decline, Driven by BEV Growth",
+      "dek": "Despite an overall drop in sales, BMW Group's fully electric vehicle sales increased by 7.2% globally in the third quarter, with Europe showing significant growth.",
+      "kicker": "Economy",
+      "lead": "The BMW Group experienced a decline in overall sales during the third quarter of 2026, with a 6.3% year-over-year decrease. This downturn affected various brands under the group, including BMW, MINI, BMW Motorrad, and Rolls-Royce. Electrified vehicle sales for the group also saw a slight dip of 0.3%.",
+      "takeaway": "Despite an overall drop in sales, BMW Group's fully electric vehicle sales increased by 7.2% globally in the third quarter, with Europe showing significant growth.",
+      "body": [
+        "The BMW Group experienced a decline in overall sales during the third quarter of 2026, with a 6.3% year-over-year decrease. This downturn affected various brands under the group, including BMW, MINI, BMW Motorrad, and Rolls-Royce. Electrified vehicle sales for the group also saw a slight dip of 0.3%.",
+        "However, fully electric vehicles (BEVs) emerged as the sole positive segment for the company during the quarter. Global BEV sales for the BMW Group rose by a notable 7.2%. This growth was particularly strong in Europe, where BEV sales increased by 37.5%, with 81,941 units delivered. In Europe, 34.7% of all BMW Group vehicles sold were fully electric.",
+        "Sales in Germany also showed a significant increase in fully electric models, with a growth rate of 38.5%. This contrasts with a substantial 24.8% drop in sales in China, a market experiencing rapid electrification and a shift towards domestic EV brands.",
+        "The MINI brand, which has a heavily electrified lineup, was the only segment to achieve sales growth across the first nine months of 2026, with a 6.8% increase. Of the 220,247 MINI vehicles sold year-to-date, 37.2% were fully electric."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-14T03:57:07.000Z",
+      "updatedAt": "2026-10-14T03:57:07.000Z",
+      "attribution": {
+        "source": "CleanTechnica Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/10/13/bmw-sales-suffer-in-3rd-quarter-with-bevs-only-real-bright-spot/",
+        "originalTitle": "BMW Sales Suffer In 3rd Quarter, With BEVs Only Real Bright Spot"
+      },
+      "faqs": [
+        {
+          "question": "What was the overall sales performance of BMW Group in Q3 2026?",
+          "answer": "BMW Group's overall sales declined by 6.3% in the third quarter of 2026 compared to the previous year."
+        },
+        {
+          "question": "Which segment showed growth for BMW Group in Q3 2026?",
+          "answer": "Fully electric vehicle (BEV) sales were the only segment to show growth for BMW Group in the third quarter of 2026, increasing by 7.2% globally."
+        }
+      ]
+    },
+    {
+      "id": "1821b7910c4016f1",
+      "section": "economy",
+      "slug": "eu-uk-trade-rules-for-electric-vehicle-batteries-to-take-effect-in-2027-1821b791",
+      "headline": "EU-UK Trade Rules for Electric Vehicle Batteries to Take Effect in 2027",
+      "dek": "New 'Made in Europe' rules for electric vehicle batteries under the EU-UK Trade and Cooperation Agreement are set to be implemented as planned in January 2027, despite industry calls for delays.",
+      "kicker": "Economy",
+      "lead": "The European Union and the United Kingdom's Trade and Cooperation Agreement (TCA) includes rules of origin for electric vehicle (EV) batteries, which are crucial for tariff-free trade. These regulations, set to take effect on January 1, 2027, stipulate that battery packs and cells must originate in the EU or UK, with a limit of 30-35% non-originating content for cathode active materials.",
+      "takeaway": "New 'Made in Europe' rules for electric vehicle batteries under the EU-UK Trade and Cooperation Agreement are set to be implemented as planned in January 2027, despite industry calls for delays.",
+      "body": [
+        "The European Union and the United Kingdom's Trade and Cooperation Agreement (TCA) includes rules of origin for electric vehicle (EV) batteries, which are crucial for tariff-free trade. These regulations, set to take effect on January 1, 2027, stipulate that battery packs and cells must originate in the EU or UK, with a limit of 30-35% non-originating content for cathode active materials.",
+        "Automakers, represented by the European Automobile Manufacturers' Association (ACEA), have been pushing for a further delay to these rules, which have already been postponed by three years. However, an analysis by Transport & Environment (T&E) debunks the industry's claims and supports the implementation of the existing regulations.",
+        "T&E's findings indicate that EU battery production capacity will significantly exceed the demand required for EU-UK trade in 2027. For nickel-rich NMC batteries, EU production is projected to be six times the amount needed for exports to the UK, and for lithium-iron phosphate (LFP) batteries, it will be 2.4 times the requirement.",
+        "Furthermore, the analysis shows sufficient cathode active material (CAM) production within the EU to meet the demand for EU-built EVs exported to the UK. EU CAM supply is expected to surpass the needs for both NMC and LFP batteries by over a third, and by nearly five times for NCA batteries.",
+        "Implementing these rules is considered vital for securing Europe's battery value chain and maintaining investor confidence. EU Trade Commissioner Maroš Šefčovič has previously stated that the Commission would introduce a mechanism to prevent further extensions beyond 2032, emphasizing the need for the permanent TCA rules of origin to apply as scheduled."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-14T01:39:22.000Z",
+      "updatedAt": "2026-10-14T01:39:22.000Z",
+      "attribution": {
+        "source": "CleanTechnica Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/10/13/eu-uk-tca-getting-made-in-europe-rules-right/",
+        "originalTitle": "EU-UK TCA: Getting Made in Europe Rules Right"
+      },
+      "faqs": [
+        {
+          "question": "What are the key requirements for EV batteries under the EU-UK TCA?",
+          "answer": "Battery packs and cells must originate in the EU or UK, with a maximum of 30-35% non-originating content for cathode active materials."
+        },
+        {
+          "question": "What is the projected EU battery production capacity for 2027?",
+          "answer": "EU battery production capacity is expected to far exceed the demand from EU-UK trade, with significant surpluses for NMC, LFP, and NCA battery types."
+        }
+      ]
+    },
+    {
+      "id": "938738aa3f169b9b",
+      "section": "economy",
+      "slug": "africa-urged-to-process-critical-minerals-avoid-oil-era-mistakes-938738aa",
+      "headline": "Africa Urged to Process Critical Minerals, Avoid Oil Era Mistakes",
+      "dek": "Former Nigerian oil executive Bala Wunti warns that Africa risks repeating past economic pitfalls by exporting raw critical minerals instead of processing them domestically.",
+      "kicker": "Economy",
+      "lead": "Bala Wunti, who has extensive experience in Nigeria's oil sector, cautioned African nations at the 2026 Concordia Annual Summit against repeating the economic mistakes made during the crude oil era with the continent's new mineral wealth. He argued that exporting raw materials like lithium, cobalt, and rare earth elements, while importing refined products, leads to poverty rather than prosperity.",
+      "takeaway": "Former Nigerian oil executive Bala Wunti warns that Africa risks repeating past economic pitfalls by exporting raw critical minerals instead of processing them domestically.",
+      "body": [
+        "Bala Wunti, who has extensive experience in Nigeria's oil sector, cautioned African nations at the 2026 Concordia Annual Summit against repeating the economic mistakes made during the crude oil era with the continent's new mineral wealth. He argued that exporting raw materials like lithium, cobalt, and rare earth elements, while importing refined products, leads to poverty rather than prosperity.",
+        "Wunti highlighted that global energy is shifting from being priced in barrels of oil to kilograms of battery minerals. He emphasized that processing capacity, not just raw deposits, is becoming the key driver of economic advantage in this new landscape.",
+        "Drawing parallels to the oil industry, Wunti stated that Africa must evolve into a processing partner for its critical minerals, rather than remaining solely a source of raw materials. He described the permanent export of unrefined minerals as a form of \"colonial economics,\" though he acknowledged that temporary concentrate exports might sometimes be commercially necessary.",
+        "Nigeria's own situation serves as an example, with the country having identified 44 critical minerals. However, Wunti pointed out that geological indications do not equate to proven reserves backed by internationally recognized data, and investors fund projects, not potential.",
+        "His experience includes leading the renegotiation of Nigeria's Deep Offshore Production Sharing Contracts, which resolved a two-decade stalemate with international oil companies and secured a greater share of offshore revenue for the government."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-12T12:06:22.000Z",
+      "updatedAt": "2026-10-12T12:06:22.000Z",
+      "attribution": {
+        "source": "AllAfrica Africa",
+        "url": "https://allafrica.com/stories/202610120405.html",
+        "originalTitle": "Africa: Wunti Warns Africa Against Repeating Its Oil Mistake"
+      },
+      "faqs": [
+        {
+          "question": "What is the main concern Bala Wunti has for Africa's mineral wealth?",
+          "answer": "Bala Wunti is concerned that Africa might repeat the economic mistakes of its oil era by exporting raw critical minerals instead of processing them domestically."
+        },
+        {
+          "question": "Why is processing capacity important for Africa's critical minerals?",
+          "answer": "Processing capacity is becoming the primary source of economic advantage as global demand for battery minerals rises, and it allows African nations to gain more value from their resources."
+        }
+      ],
+      "image": {
+        "src": "/media/938738aa3f169b9b.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Unrefined ore, Rock formations, Industrial gears, Refined ingot, Mining tools",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Earthy tones, metallic sheen, deep blues. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Mineral-rich earth. Mood: Cautious potential. Story objects that must appear: Unrefined ore, Rock formations, Industrial gears, Refined ingot, Mining tools. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "e690a8556dfc31db",
+      "section": "news",
+      "slug": "autel-maxicharger-ev-charger-price-drops-to-new-low-e690a855",
+      "headline": "Autel MaxiCharger EV Charger Price Drops to New Low",
+      "dek": "The Autel MaxiCharger AC Pro 80A Level 2 EV Charger is available for $909, marking a significant discount.",
+      "kicker": "News",
+      "lead": "The Autel MaxiCharger AC Pro 80A Level 2 Residential EV Charger is currently available for $908.65, its lowest price to date. This represents a $390 markdown from its regular price. Previous discounts in 2026 had brought the cost down to between $1,069 and $909, with a recent sale event pricing it at the higher end of that range. The charger offers an 80A output, capable of adding approximately 70 miles of range per hour.",
+      "takeaway": "The Autel MaxiCharger AC Pro 80A Level 2 EV Charger is available for $909, marking a significant discount.",
+      "body": [
+        "The Autel MaxiCharger AC Pro 80A Level 2 Residential EV Charger is currently available for $908.65, its lowest price to date. This represents a $390 markdown from its regular price. Previous discounts in 2026 had brought the cost down to between $1,069 and $909, with a recent sale event pricing it at the higher end of that range. The charger offers an 80A output, capable of adding approximately 70 miles of range per hour.",
+        "This deal is part of ongoing savings events that include other electric mobility and power solutions. Segway's GT3 Electric SuperScooter is also on sale for $1,399.99. Additionally, Anker is offering a bundle for its 6,144Wh SOLIX F3000 Portable Power Station with an expansion battery and a home integration kit for $2,118.49.",
+        "Greenworks has also discounted its 80V 20-inch Cordless Electric Pole Hedge Trimmer to $242.58, a new low for the year. For younger riders, the GoTrax MK2 Electric Mini Motorbike for kids is available for $279.99, also a new all-time low price."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-12T18:01:28.000Z",
+      "updatedAt": "2026-10-12T18:01:28.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/12/segway-gt3-superscooter-anker-6144wh-expanded-f3000-power-station-autel-greenworks-more/",
+        "originalTitle": "Segway GT3 superscooter $1,400 low, Anker 6,144Wh expanded F3000 power station bundle $2,118, Autel, Greenworks, GoTrax, more"
+      },
+      "faqs": [
+        {
+          "question": "What is the current price of the Autel MaxiCharger AC Pro?",
+          "answer": "The Autel MaxiCharger AC Pro 80A Level 2 EV Charger is available for $908.65."
+        },
+        {
+          "question": "What is the charging speed of the Autel MaxiCharger AC Pro?",
+          "answer": "The Autel MaxiCharger AC Pro 80A Level 2 EV Charger provides an 80A output, which can add approximately 70 miles of range per hour."
+        }
+      ],
+      "image": {
+        "src": "/media/e690a8556dfc31db.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Charging station, electric vehicle, power cable, road, battery icon",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Green, blue, silver. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Roadside charging point. Mood: Opportunity. Story objects that must appear: Charging station, electric vehicle, power cable, road, battery icon. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "ff423c71c1813cf9",
+      "section": "economy",
+      "slug": "tesla-ceo-elon-musk-s-political-spending-harms-ev-business-ff423c71",
+      "headline": "Tesla CEO Elon Musk's Political Spending Harms EV Business",
+      "dek": "Musk has spent hundreds of millions on political campaigns, primarily supporting anti-EV candidates, which Tesla acknowledges has cost the company billions.",
+      "kicker": "Economy",
+      "lead": "Tesla CEO Elon Musk has significantly increased his political spending, directing substantial funds towards campaigns that oppose electric vehicles. In the 2026 midterms alone, Musk spent $366 million, with $276 million allocated in the last three months. This spending is more than the $288 million he contributed during the 2024 election cycle, making him the largest single donor to political campaigns in this period.",
+      "takeaway": "Musk has spent hundreds of millions on political campaigns, primarily supporting anti-EV candidates, which Tesla acknowledges has cost the company billions.",
+      "body": [
+        "Tesla CEO Elon Musk has significantly increased his political spending, directing substantial funds towards campaigns that oppose electric vehicles. In the 2026 midterms alone, Musk spent $366 million, with $276 million allocated in the last three months. This spending is more than the $288 million he contributed during the 2024 election cycle, making him the largest single donor to political campaigns in this period.",
+        "Tesla has publicly acknowledged that these political activities, largely supporting the Republican party which is described as openly anti-EV, have negatively impacted its business. The company has reported billions in lost revenue directly attributed to actions taken by politicians Musk has supported. These actions have also led to a negative public perception of Tesla, a decline in international sales, and protests in various countries.",
+        "Despite the acknowledged damage to Tesla's reputation and financial performance, Musk has continued and even accelerated his political spending. Tesla's quarterly reports and government filings have repeatedly cited the harm caused by Musk's political engagement. The company's board and shareholders have continued to permit these actions, even as they affect the company's profitability and shareholder value.",
+        "Musk's political stance has shifted from Tesla's earlier nonpartisan approach, which focused on the benefits of its products, to actively supporting specific political parties and their platforms. This shift has been characterized as outwardly one-sided and has extended to wedge issues unrelated to his businesses. The article suggests that these actions are driven by personal benefit rather than the company's well-being."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-12T16:47:18.000Z",
+      "updatedAt": "2026-10-12T16:47:18.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/",
+        "originalTitle": "No single person has spent more money to harm EVs than Tesla CEO Elon Musk"
+      },
+      "faqs": [
+        {
+          "question": "How much has Elon Musk spent on political campaigns?",
+          "answer": "Elon Musk has spent $366 million during the 2026 midterms, with $276 million spent in the last three months."
+        },
+        {
+          "question": "What impact has Musk's political spending had on Tesla?",
+          "answer": "Tesla acknowledges that Musk's political activities have harmed its business, costing it billions in lost revenue and negatively impacting its public perception and international sales."
+        }
+      ],
+      "image": {
+        "src": "/media/ff423c71c1813cf9.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Currency notes, Broken charging station, Large rock, Rusted car chassis, Wilting acacia tree",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Ochre, rust, charcoal, muted green. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Arid landscape. Mood: Stagnant. Story objects that must appear: Currency notes, Broken charging station, Large rock, Rusted car chassis, Wilting acacia tree. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "c9c30b7d547bcfe0",
+      "section": "economy",
+      "slug": "vammo-achieves-profitability-and-10-million-battery-swaps-for-electric-m-c9c30b7d",
+      "headline": "Vammo Achieves Profitability and 10 Million Battery Swaps for Electric Motorcycles",
+      "dek": "The Brazilian EV company is expanding its operations and has reached EBITDA profitability, marking a significant milestone in the electric motorcycle market.",
+      "kicker": "Economy",
+      "lead": "Brazilian electric motorcycle company Vammo has reached EBITDA profitability and surpassed 10 million battery swaps, signaling a major achievement for the company. Vammo, which has been operating in São Paulo since 2022, has built a network of approximately 1,000 battery-swapping points.",
+      "takeaway": "The Brazilian EV company is expanding its operations and has reached EBITDA profitability, marking a significant milestone in the electric motorcycle market.",
+      "body": [
+        "Brazilian electric motorcycle company Vammo has reached EBITDA profitability and surpassed 10 million battery swaps, signaling a major achievement for the company. Vammo, which has been operating in São Paulo since 2022, has built a network of approximately 1,000 battery-swapping points.",
+        "Riders utilize Vammo's electric motorcycles and can quickly exchange depleted batteries for fully charged ones at designated swapping locations, avoiding lengthy charging times. The company has seen a substantial increase in active customers, growing by 250% this year to over 10,000 riders.",
+        "Vammo is now embarking on its first significant geographic expansion, with Campinas designated as its second operational city. The company plans to focus on the state of São Paulo before eventually expanding throughout Brazil and into other Latin American markets.",
+        "Financially, Vammo reached breakeven in June, six months ahead of schedule, and is now consistently EBITDA profitable. This is a notable accomplishment for a young company in the capital-intensive electric motorcycle sector. Vammo is also introducing its third-generation swapping stations, which are designed to reduce costs by an additional 15% through AI-powered software that optimizes battery charging based on demand and usage patterns.",
+        "Despite electric motorcycles accounting for only 0.7% of Brazil's motorcycle sales, Vammo claims over 65% of the domestic electric motorcycle market. The company's model offers riders an estimated 35% savings compared to operating a traditional gasoline motorcycle, primarily through lower energy and maintenance costs."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-12T11:30:51.000Z",
+      "updatedAt": "2026-10-12T11:30:51.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/12/this-electric-motorcycle-company-just-hit-10-million-battery-swaps-and-its-profitable/",
+        "originalTitle": "This electric motorcycle company just hit 10 million battery swaps – and it’s profitable"
+      },
+      "faqs": [
+        {
+          "question": "What is Vammo's primary service?",
+          "answer": "Vammo provides electric motorcycles and a battery-swapping service, allowing riders to quickly exchange depleted batteries for charged ones."
+        },
+        {
+          "question": "What are Vammo's key recent achievements?",
+          "answer": "Vammo has achieved EBITDA profitability, surpassed 10 million battery swaps, and is expanding its operations to new cities."
+        }
+      ],
+      "image": {
+        "src": "/media/c9c30b7d547bcfe0.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Motorcycle, battery, kiosk, power lines, street lamp",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Warm yellows, deep blues, metallic grey. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Urban street corner. Mood: Prosperous. Story objects that must appear: Motorcycle, battery, kiosk, power lines, street lamp. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "24c995332199b2f9",
+      "section": "economy",
+      "slug": "ultraviolette-automotive-pursues-premium-strategy-for-ev-two-wheelers-24c99533",
+      "headline": "Ultraviolette Automotive Pursues Premium EV Strategy in India",
+      "dek": "The electric two-wheeler manufacturer prioritizes high-performance models, believing it's easier to scale down to mass-market offerings later.",
+      "kicker": "Economy",
+      "lead": "Ultraviolette Automotive has adopted a distinct approach in the Indian electric two-wheeler sector by initially focusing on high-performance models. This strategy contrasts with the more common practice of targeting the mass market from the outset.",
+      "takeaway": "The electric two-wheeler manufacturer prioritizes high-performance models, believing it's easier to scale down to mass-market offerings later.",
+      "body": [
+        "Ultraviolette Automotive has adopted a distinct approach in the Indian electric two-wheeler sector by initially focusing on high-performance models. This strategy contrasts with the more common practice of targeting the mass market from the outset.",
+        "Bhat also discussed the company's 100-volt architecture, a key component in their high-performance electric vehicles. This architecture is central to achieving the desired performance metrics for their current and future models.",
+        "Furthermore, Ultraviolette Automotive is preparing to launch new models, building on the foundation of their initial premium offerings. The company is also drawing valuable insights from its expansion into the European market, which presents different regulatory and consumer demands.",
+        "This strategic choice positions Ultraviolette Automotive to potentially influence the higher end of the EV market, with the aim of eventually making advanced electric two-wheeler technology more widely available."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-10T11:00:00.000Z",
+      "updatedAt": "2026-10-10T11:00:00.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/10/it-is-easier-to-come-down-ultraviolette-automotives-vinayak-bhat-makes-the-case-for-a-top-down-strategy/",
+        "originalTitle": "‘It is easier to come down’: Ultraviolette Automotive’s Vinayak Bhat makes the case for a top-down strategy"
+      },
+      "faqs": [
+        {
+          "question": "What is Ultraviolette Automotive's strategy for the Indian EV market?",
+          "answer": "Ultraviolette Automotive is focusing on high-performance electric two-wheeler models first, with plans to move towards mass-market products later."
+        },
+        {
+          "question": "What is a key technical feature of Ultraviolette's electric vehicles?",
+          "answer": "The company utilizes a 100-volt architecture for its electric two-wheelers."
+        }
+      ],
+      "image": {
+        "src": "/media/24c995332199b2f9.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Electric motorcycle, Charging station, Solar canopy, Geometric mural, Urban skyline",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Deep blues, metallic silver, electric purple accents, warm concrete grey. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Sleek urban charging hub. Mood: Aspirational. Story objects that must appear: Electric motorcycle, Charging station, Solar canopy, Geometric mural, Urban skyline. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "43879bd29d6d4eae",
+      "section": "economy",
+      "slug": "volkswagen-group-sees-surge-in-electric-vehicle-orders-in-europe-43879bd2",
+      "headline": "Volkswagen Group Sees Surge in Electric Vehicle Orders in Europe",
+      "dek": "Nearly 40% of the Volkswagen Group's European order book now consists of fully electric vehicles, driven by new affordable models and high fuel prices.",
+      "kicker": "Economy",
+      "lead": "The Volkswagen Group is experiencing a significant acceleration in the adoption of electric vehicles within Europe. Last month, approximately 40% of the group's European orders were for 100% electric models, a notable increase from previous periods. This trend is being fueled by a combination of persistently high fuel prices and the introduction of a wider range of entry-level electric vehicles.",
+      "takeaway": "Nearly 40% of the Volkswagen Group's European order book now consists of fully electric vehicles, driven by new affordable models and high fuel prices.",
+      "body": [
+        "The Volkswagen Group is experiencing a significant acceleration in the adoption of electric vehicles within Europe. Last month, approximately 40% of the group's European orders were for 100% electric models, a notable increase from previous periods. This trend is being fueled by a combination of persistently high fuel prices and the introduction of a wider range of entry-level electric vehicles.",
+        "Among the popular new offerings is the Electric Urban Car Family, which includes models like the VW ID. Polo and ID. Cross02, Škoda Epiq, and CUPRA Raval. Shortly after their launch, these vehicles garnered nearly 150,000 orders, indicating strong customer demand and a successful capture of current market sentiment.",
+        "Overall, the Volkswagen Group has maintained stable deliveries in Europe outside of China during the first nine months of the year, with growth recorded in South America as well. The company's electric vehicles are a key driver of this performance, with one in five models delivered in Europe being all-electric.",
+        "Globally, the group's deliveries were approximately 9% lower than the same period last year. However, in China, new locally developed electric models are beginning to show positive momentum in a declining market, with electrified vehicle deliveries increasing by approximately 30% in the third quarter compared to the previous year."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-13T01:55:58.000Z",
+      "updatedAt": "2026-10-13T01:55:58.000Z",
+      "attribution": {
+        "source": "CleanTechnica Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/10/12/40-of-volkswagen-groups-european-orders-were-100-electrics-last-month/",
+        "originalTitle": "40% of Volkswagen Group’s European Orders Were 100% Electrics Last Month"
+      },
+      "faqs": [
+        {
+          "question": "What percentage of Volkswagen Group's European orders are electric vehicles?",
+          "answer": "Approximately 40% of the Volkswagen Group's European order book consists of fully electric vehicles."
+        },
+        {
+          "question": "What is driving the increased demand for electric vehicles in Europe?",
+          "answer": "The increased demand is driven by high fuel prices and a wider range of entry-level electric models, including the new Electric Urban Car Family."
+        }
+      ],
+      "image": {
+        "src": "/media/43879bd29d6d4eae.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Solar panel, Jerrycan, Road sign, Power cable, Currency notes",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Warm yellows, deep blues, earthy browns, metallic greys. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: African roadside. Mood: Dynamic. Story objects that must appear: Solar panel, Jerrycan, Road sign, Power cable, Currency notes. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "4260476f436828f4",
+      "section": "economy",
+      "slug": "byd-produces-150-000-commercial-electric-vehicles-4260476f",
+      "headline": "BYD Produces 150,000 Commercial Electric Vehicles",
+      "dek": "The automaker's 150,000th commercial new energy vehicle, an electric semi truck, rolled off the production line as the company expands its heavy-duty truck business.",
+      "kicker": "Economy",
+      "lead": "BYD has now produced 150,000 commercial new energy vehicles, with the 150,000th unit being a Q3 electric semi truck. This milestone vehicle was manufactured at BYD's factory in Huai’an, located in China's Jiangsu province.",
+      "takeaway": "The automaker's 150,000th commercial new energy vehicle, an electric semi truck, rolled off the production line as the company expands its heavy-duty truck business.",
+      "body": [
+        "BYD has now produced 150,000 commercial new energy vehicles, with the 150,000th unit being a Q3 electric semi truck. This milestone vehicle was manufactured at BYD's factory in Huai’an, located in China's Jiangsu province.",
+        "The company views the Q3 electric semi truck as a crucial model for its expansion into long-haul transportation. BYD plans to increase its investment in the long-haul heavy-duty truck market to further develop its truck business.",
+        "BYD's commercial vehicle operations initially focused on city buses. The company began its research and development for trucks in 2012, progressively broadening its product range to include vehicles for urban delivery, cold-chain logistics, and long-haul transport.",
+        "In the first nine months of 2026, BYD sold 48,492 commercial vehicles, representing a 29% increase compared to the same period in 2025. This sales figure accounts for approximately 33% of the company's total cumulative commercial vehicle production to date, indicating a strong upward trend in this sector."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-12T23:30:36.000Z",
+      "updatedAt": "2026-10-12T23:30:36.000Z",
+      "attribution": {
+        "source": "CleanTechnica Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/10/12/byd-has-now-produced-150000-commercial-plugin-vehicles/",
+        "originalTitle": "BYD Has Now Produced 150,000 Commercial Plugin Vehicles"
+      },
+      "faqs": [
+        {
+          "question": "What type of vehicle marked BYD's 150,000th commercial new energy vehicle production?",
+          "answer": "The 150,000th commercial new energy vehicle produced by BYD was a Q3 electric semi truck."
+        },
+        {
+          "question": "When did BYD begin its truck research and development?",
+          "answer": "BYD started its truck research and development in 2012."
+        }
+      ]
+    },
+    {
+      "id": "513c0ccfd6173217",
+      "section": "news",
+      "slug": "ev-realty-to-build-new-electric-semi-truck-charging-hub-in-southern-cali-513c0ccf",
+      "headline": "EV Realty to Open New Electric Semi-Truck Charging Hub in Southern California",
+      "dek": "A new charging facility in Ontario, California, aims to support the growing demand for electric big rigs in the region's key logistics and freight hub.",
+      "kicker": "News",
+      "lead": "EV Realty has announced plans for a new electric semi-truck charging hub in Southern California's Inland Empire. The site, located at 2151 E. Philadelphia Street in Ontario, is situated in a major warehousing and logistics area.",
+      "takeaway": "A new charging facility in Ontario, California, aims to support the growing demand for electric big rigs in the region's key logistics and freight hub.",
+      "body": [
+        "EV Realty has announced plans for a new electric semi-truck charging hub in Southern California's Inland Empire. The site, located at 2151 E. Philadelphia Street in Ontario, is situated in a major warehousing and logistics area.",
+        "The new hub is strategically positioned with access to major freeways, including the SR-60 and I-15, and is designed to serve fleets operating in the region. Its location is intended to support operations for the Ports of Los Angeles and Long Beach, as well as intermodal facilities and Ontario International Airport.",
+        "EV Realty CEO Patrick Sullivan stated that the Ontario location is at the convergence of a major container gateway and a dense warehouse cluster, calling it an epicenter for truck electrification in the United States. He added that once operational, EV Realty will have 27 MW of simultaneous truck charging capacity in the area.",
+        "Construction at the site is expected to begin early next year, with the charging facility anticipated to be operational before 2028. The company highlighted the need for high-capacity charging sites in Southern California due to constrained grid capacity in many areas."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-11T13:21:14.000Z",
+      "updatedAt": "2026-10-11T13:21:14.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/11/as-electric-semi-truck-race-heats-up-socal-is-getting-another-charging-hub/",
+        "originalTitle": "As electric semi truck race heats up, SoCal is getting another charging hub"
+      },
+      "faqs": [
+        {
+          "question": "Where will the new electric semi-truck charging hub be located?",
+          "answer": "The new charging hub will be located at 2151 E."
+        },
+        {
+          "question": "When is the charging hub expected to be operational?",
+          "answer": "The charging facility is anticipated to be operational before 2028."
+        }
+      ],
+      "image": {
+        "src": "/media/513c0ccfd6173217.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Electric transport truck, Charging cables, Solar array, Utility pole, Dusty ground, Road sign",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Earthy tones, metallic grays, electric blue. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Industrial charging depot. Mood: Progressive. Story objects that must appear: Electric transport truck, Charging cables, Solar array, Utility pole, Dusty ground, Road sign. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "962571f77864af2e",
+      "section": "economy",
+      "slug": "byd-produces-150-000th-electric-commercial-vehicle-962571f7",
+      "headline": "BYD Reaches 150,000 Electric Commercial Vehicle Production Milestone",
+      "dek": "The company's Q3 electric semi truck, featuring an 800 hp powertrain and 600 kWh battery, represents a significant step in BYD's expansion into the heavy-duty electric vehicle market.",
+      "kicker": "Economy",
+      "lead": "BYD has produced its 150,000th new energy commercial vehicle, a Q3 electric semi truck, at its plant in Huai’an, Jiangsu province. This milestone highlights BYD's growing presence in the commercial vehicle sector, complementing its established battery and passenger car businesses.",
+      "takeaway": "The company's Q3 electric semi truck, featuring an 800 hp powertrain and 600 kWh battery, represents a significant step in BYD's expansion into the heavy-duty electric vehicle market.",
+      "body": [
+        "BYD has produced its 150,000th new energy commercial vehicle, a Q3 electric semi truck, at its plant in Huai’an, Jiangsu province. This milestone highlights BYD's growing presence in the commercial vehicle sector, complementing its established battery and passenger car businesses.",
+        "The Q3 electric semi truck is equipped with BYD's blade-style lithium iron phosphate batteries, totaling 600 kWh. Its dual-motor system delivers approximately 800 horsepower, designed to haul up to 108,000 lbs. The truck offers a range of over 200 miles on a single charge.",
+        "To minimize downtime, the Q3 supports dual-gun DC fast charging, capable of reaching an 80% state of charge from 20% in just 30 minutes. This rapid charging capability is crucial for fleet operators looking to integrate electric trucks into their operations.",
+        "BYD's New Energy truck business has seen substantial growth, with 6,848 NEV trucks sold in September alone, an increase of 113.33% year-over-year. Through the first nine months of 2026, the company delivered 53,032 units, marking a 28.46% rise compared to the same period in 2025."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-10T12:53:18.000Z",
+      "updatedAt": "2026-10-10T12:53:18.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/",
+        "originalTitle": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck"
+      },
+      "faqs": [
+        {
+          "question": "What is the production milestone BYD has achieved?",
+          "answer": "BYD has produced its 150,000th new energy commercial vehicle."
+        },
+        {
+          "question": "What are the key specifications of the BYD Q3 electric semi truck?",
+          "answer": "The Q3 features an 800 hp dual-motor, a 600 kWh battery, and can haul up to 108,000 lbs with a range of over 200 miles."
+        }
+      ],
+      "image": {
+        "src": "/media/962571f77864af2e.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Electric truck, Charging station, Solar panels, Shipping container, Industrial building",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Metallic grey, electric blue, desert ochre. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Industrial zone. Mood: Progress. Story objects that must appear: Electric truck, Charging station, Solar panels, Shipping container, Industrial building. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "5adc2dbe40a060a5",
+      "section": "news",
+      "slug": "bluetti-offers-sodium-ion-power-station-at-discounted-price-5adc2dbe",
+      "headline": "Bluetti Offers Winter-Ready Sodium Power Station at Discounted Price",
+      "dek": "The Bluetti Encore Sale features the 900Wh Pioneer Na(Sodium) Portable Power Station at an exclusive low of $665, alongside deals on Anker security kits and Navee electric scooters.",
+      "kicker": "News",
+      "lead": "Bluetti has launched a Fall Prime Deals Encore Sale, bringing back its 900Wh Pioneer Na(Sodium) Portable Power Station for $665. This winter-ready model, originally priced at $999 in October 2025, is now available at a combined $334 discount, marking its lowest tracked price.",
+      "takeaway": "The Bluetti Encore Sale features the 900Wh Pioneer Na(Sodium) Portable Power Station at an exclusive low of $665, alongside deals on Anker security kits and Navee electric scooters.",
+      "body": [
+        "Bluetti has launched a Fall Prime Deals Encore Sale, bringing back its 900Wh Pioneer Na(Sodium) Portable Power Station for $665. This winter-ready model, originally priced at $999 in October 2025, is now available at a combined $334 discount, marking its lowest tracked price.",
+        "This sale also includes exclusive deals on Anker solar multi-camera security bundles with HomeBase 3. The EufyCam S3 Pro 4K Solar Security 2-Cam Kit is available for $389.99, and other bundles start at $290.",
+        "Additionally, Navee's Fall EV Sale offers significant discounts on electric scooters, with the UT5 Ultra X Electric SuperScooter reduced to $1,600, a $900 markdown from its original price. The sale provides up to 65% off on select e-scooters.",
+        "Other deals featured in the sale include an EGO carbon fiber string trimmer kit, a Greenworks chainsaw, and a Linkind Matter outdoor smart plug, promoting energy-conscious choices."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-09T18:00:00.000Z",
+      "updatedAt": "2026-10-09T18:00:00.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/09/bluetti-nasodium-900wh-power-station-anker-solar-multi-cam-kits-navee-evs-more/",
+        "originalTitle": "Bluetti Na(Sodium) 900Wh power station at exclusive $665 low in Encore Sale, Anker solar multi-cam kits $310 off, Navee EVs, more"
+      },
+      "faqs": [
+        {
+          "question": "What is the capacity of the Bluetti Pioneer Na(Sodium) Portable Power Station?",
+          "answer": "The Bluetti Pioneer Na(Sodium) Portable Power Station has a capacity of 900Wh."
+        },
+        {
+          "question": "What is the maximum discount available on Navee electric scooters?",
+          "answer": "Navee electric scooters are available with up to 65% off during the Fall EV Sale."
+        }
+      ],
+      "image": {
+        "src": "/media/5adc2dbe40a060a5.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Power station, Solar panel, Lantern, Canvas tent, Acacia tree",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Earth tones, twilight blues, metallic grey. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Remote savanna outpost. Mood: Resourceful. Story objects that must appear: Power station, Solar panel, Lantern, Canvas tent, Acacia tree. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "3a1f9eff78fa2016",
+      "section": "economy",
+      "slug": "bus-buyers-have-overwhelmingly-chosen-battery-electric-3a1f9eff",
+      "headline": "Bus Buyers Have Overwhelmingly Chosen Battery-Electric",
+      "dek": "Across hundreds of procurement records and very different transit markets, battery-electric has become the reference technology for zero-emission bus fleets. Support CleanTechnica's work through a Substack subscription,…",
+      "kicker": "Economy",
+      "lead": "Across hundreds of procurement records and very different transit markets, battery-electric has become the reference technology for zero-emission bus fleets. Support CleanTechnica's work through a Substack subscription, on Patreon, or on Stripe.",
+      "takeaway": "Across hundreds of procurement records and very different transit markets, battery-electric has become the reference technology for zero-emission bus fleets.",
+      "body": [
+        "Across hundreds of procurement records and very different transit markets, battery-electric has become the reference technology for zero-emission bus fleets. Support CleanTechnica's work through a Substack subscription, on Patreon, or on Stripe.",
+        "Help us produce all of the high-quality, original content we publish week after week despite the challenges of content-scraping AI, antisocial media, inflation, and other hurdles.",
+        "Zero-emission bus procurement has moved beyond the stage where battery-electric and hydrogen fuel-cell buses should be treated as two parallel technologies waiting for the market to decide between them.",
+        "Transit agencies have now spent years operating both, rebuilding depots, installing charging and refuelling infrastructure, training technicians and discovering which assumptions survive daily service.",
+        "Both technologies can move passengers without tailpipe emissions. The more useful evidence now comes from what agencies are prepared to buy repeatedly and at fleet scale.",
+        "I assembled a global procurement register with 388 sourced records across 81 countries, separating firm orders and awards from tenders, options, framework quantities and funding announcements."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-12T05:35:47.000Z",
+      "updatedAt": "2026-10-12T05:35:47.000Z",
+      "attribution": {
+        "source": "CleanTechnica Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/10/12/zero-emission-bus-procurement-battery-electric/",
+        "originalTitle": "Bus Buyers Have Overwhelmingly Chosen Battery-Electric"
+      },
+      "faqs": [
+        {
+          "question": "What happened?",
+          "answer": "Across hundreds of procurement records and very different transit markets, battery-electric has become the reference technology for zero-emission bus fleets."
+        },
+        {
+          "question": "What happens next?",
+          "answer": "The desk will follow official notices as they are published."
+        }
+      ],
+      "image": {
+        "src": "/media/3a1f9eff78fa2016.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Electric bus, Charging station, Solar array, City street, Power lines, Distant buildings",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Emerald green, sky blue, charcoal grey, bright yellow. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Urban bus depot. Mood: Progressive. Story objects that must appear: Electric bus, Charging station, Solar array, City street, Power lines, Distant buildings. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "0075094ba671a0e4",
+      "section": "economy",
+      "slug": "volkswagen-group-unveils-four-affordable-electric-urban-cars-0075094b",
+      "headline": "Volkswagen Group Unveils Four Affordable Electric Urban Cars",
+      "dek": "CUPRA Raval, Volkswagen ID. Polo, Škoda Epiq, and Volkswagen ID. Cross debut together, attracting nearly 150,000 orders.",
+      "kicker": "Economy",
+      "lead": "The Volkswagen Group has presented its Electric Urban Car Family (EUCF) for the first time as a complete lineup at the Paris Motor Show. This family includes the CUPRA Raval, Volkswagen ID. Polo, Škoda Epiq, and Volkswagen ID. Cross, all built on the MEB+ Platform.",
+      "takeaway": "CUPRA Raval, Volkswagen ID.",
+      "body": [
+        "The Volkswagen Group has presented its Electric Urban Car Family (EUCF) for the first time as a complete lineup at the Paris Motor Show. This family includes the CUPRA Raval, Volkswagen ID. Polo, Škoda Epiq, and Volkswagen ID. Cross, all built on the MEB+ Platform.",
+        "The initiative aims to make electric mobility more accessible to a broader customer base. The Brand Group Core, led by SEAT & CUPRA, has pooled the expertise of its brands to create four distinct models with a shared technological foundation, targeting the growing European small car segment.",
+        "Production of the EUCF models is based in Spain, with the CUPRA Raval and Volkswagen ID. Polo being manufactured in Martorell, and the Škoda Epiq and Volkswagen ID. Cross produced in Pamplona. This strategy leverages common components and technologies, with over 80 percent of parts being identical across the models.",
+        "The project is part of a significant investment in electric mobility in Spain, with SEAT & CUPRA, Brand Group Core, PowerCo, and partners investing ten billion euros. This includes investments in battery cell and battery system production facilities.",
+        "Customer interest in the Electric Urban Car Family has been strong, with nearly 150,000 orders received even before deliveries have begun. This response indicates a demand for affordable electric vehicles that combine modern technology with practical everyday use and distinct brand identities."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-11T14:09:33.000Z",
+      "updatedAt": "2026-10-11T14:09:33.000Z",
+      "attribution": {
+        "source": "CleanTechnica Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/10/11/successful-market-launch-of-the-electric-urban-car-family-cupra-raval-volkswagen-id-polo-skoda-epiq-and-volkswagen-id-cross-together-for-the-first-time-at-the-paris-motor-show/",
+        "originalTitle": "Successful Market Launch of the Electric Urban Car Family: CUPRA Raval, Volkswagen ID. Polo, Škoda Epiq, and Volkswagen ID. Cross Together for the First Time at the Paris Motor Show"
+      },
+      "faqs": [
+        {
+          "question": "What are the four models in the Electric Urban Car Family?",
+          "answer": "The four models are the CUPRA Raval, Volkswagen ID."
+        },
+        {
+          "question": "Where are the Electric Urban Car Family models produced?",
+          "answer": "The models are produced in Spain, with hatchback variants in Martorell and electric SUVs in Pamplona."
+        }
+      ],
+      "image": {
+        "src": "/media/0075094ba671a0e4.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Charging station, City skyline, Road markings, Street lamp, Solar panel",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Blues, greens, grays. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: City street. Mood: Modern. Story objects that must appear: Charging station, City skyline, Road markings, Street lamp, Solar panel. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "65654cca81731a64",
+      "section": "news",
+      "slug": "kia-ev3-electric-suv-arrives-at-u-s-dealerships-65654cca",
+      "headline": "Kia EV3 Electric SUV Arrives at U.S. Dealerships",
+      "dek": "The new Kia EV3, an entry-level electric SUV, is now available in U.S. showrooms, offering a range of up to 321 miles and starting under $30,000.",
+      "kicker": "News",
+      "lead": "Kia has launched its all-new 2027 EV3 electric SUV in the United States, making it the most affordable model in the company's EV lineup. The EV3 is designed as an entry-level electric SUV, aiming to provide practical range and everyday usability at an accessible price point.",
+      "takeaway": "The new Kia EV3, an entry-level electric SUV, is now available in U.S.",
+      "body": [
+        "Kia has launched its all-new 2027 EV3 electric SUV in the United States, making it the most affordable model in the company's EV lineup. The EV3 is designed as an entry-level electric SUV, aiming to provide practical range and everyday usability at an accessible price point.",
+        "The vehicle is built on Kia's E-GMP platform and offers features such as DC fast charging, which can charge the battery from 10% to 80% in as little as 29 minutes. Depending on the trim, the EV3 can achieve an EPA-estimated all-electric range of up to 321 miles. It also includes a native NACS charging port with standard Plug and Charge capability.",
+        "Inside, the EV3 boasts a panoramic display with dual 12.3-inch screens and a 5-inch climate display, similar to the larger EV9. Available features include a Head-up Display, 360° Surround-View Monitor, and multicolor ambient mood lighting. The interior is designed with durable materials and offers flexible storage solutions, including an open center console.",
+        "The 2027 Kia EV3 lineup starts with the Light FWD trim priced at $29,890 MSRP, before a $1,495 destination charge. Higher trims like the Wind, Land, GT-Line, and GT are also available with varying price points and drivetrain options, including all-wheel drive."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-11T13:58:51.000Z",
+      "updatedAt": "2026-10-11T13:58:51.000Z",
+      "attribution": {
+        "source": "CleanTechnica Electric Vehicles",
+        "url": "https://cleantechnica.com/2026/10/11/you-can-now-get-the-kia-ev3-at-us-dealerships-dream-ev/",
+        "originalTitle": "You Can Now Get The Kia EV3 At US Dealerships — Dream EV!"
+      },
+      "faqs": [
+        {
+          "question": "What is the starting price for the 2027 Kia EV3?",
+          "answer": "The 2027 Kia EV3 starts at $29,890 MSRP for the Light FWD trim, excluding the destination charge."
+        },
+        {
+          "question": "What is the maximum estimated electric range for the Kia EV3?",
+          "answer": "Certain trims of the 2027 Kia EV3 offer an EPA-estimated all-electric range of up to 321 miles."
+        }
+      ],
+      "image": {
+        "src": "/media/65654cca81731a64.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Electric vehicle, baobab tree, clay dwelling, woven basket, dust cloud",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Earthy browns, muted greens, sky blue, metallic silver. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Dusty track, village edge. Mood: Promise. Story objects that must appear: Electric vehicle, baobab tree, clay dwelling, woven basket, dust cloud. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "a0af0a6f7966a40c",
+      "section": "news",
+      "slug": "ev4eu-project-concludes-advancing-bidirectional-ev-charging-technology-a0af0a6f",
+      "headline": "EV4EU Project Concludes, Advancing Bidirectional EV Charging Technology",
+      "dek": "Four-year EU project EV4EU finishes, delivering a bidirectional CCS charging prototype and open-source software to support electric vehicles in grid stabilization.",
+      "kicker": "News",
+      "lead": "The European Union's EV4EU project has completed its four-year initiative focused on advancing bidirectional charging technology for electric vehicles. The project successfully developed a prototype for bidirectional charging using the CCS standard, enabling electric cars to both draw power from and supply it back to the grid.",
+      "takeaway": "Four-year EU project EV4EU finishes, delivering a bidirectional CCS charging prototype and open-source software to support electric vehicles in grid stabilization.",
+      "body": [
+        "The European Union's EV4EU project has completed its four-year initiative focused on advancing bidirectional charging technology for electric vehicles. The project successfully developed a prototype for bidirectional charging using the CCS standard, enabling electric cars to both draw power from and supply it back to the grid.",
+        "In addition to the hardware prototype, the EV4EU project created open-source software specifically designed for charging point operators. This software aims to facilitate the integration and management of bidirectional charging capabilities within existing infrastructure.",
+        "The project culminated in four demonstration projects that showcased the practical applications of electric vehicles in enhancing the adaptability of the power system. These demonstrations highlighted how EVs can play a crucial role in stabilizing the electricity grid by managing energy flow.",
+        "The EV4EU initiative represents a significant step forward in the integration of electric vehicles into the broader energy landscape, moving beyond simple charging to active grid participation."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-10T08:00:00.000Z",
+      "updatedAt": "2026-10-10T08:00:00.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/10/ev4eu-project-advances-bidirectional-charging/",
+        "originalTitle": "EV4EU project advances bidirectional charging"
+      },
+      "faqs": [
+        {
+          "question": "What was the main outcome of the EV4EU project?",
+          "answer": "The EV4EU project concluded by developing a bidirectional CCS charging prototype and open-source software for charging point operators."
+        },
+        {
+          "question": "How can electric cars contribute to the power system according to the EV4EU project?",
+          "answer": "Electric cars can contribute to the adaptability of the power system by enabling bidirectional charging, allowing them to supply power back to the grid."
+        }
+      ],
+      "image": {
+        "src": "/media/a0af0a6f7966a40c.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of electric vehicle, charging station, power lines, solar array, utility pole",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Power station perimeter. Mood: Connected. Story objects that must appear: electric vehicle, charging station, power lines, solar array, utility pole. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "a4e07c8da659fabc",
+      "section": "economy",
+      "slug": "eu-commission-funds-46-projects-for-critical-raw-materials-a4e07c8d",
+      "headline": "EU Commission Funds 46 Raw Materials Projects for Battery Production",
+      "dek": "The European Commission has chosen 46 new projects across 16 member states to secure critical raw materials, with a focus on those essential for electric vehicle batteries.",
+      "kicker": "Economy",
+      "lead": "The EU Commission has announced the selection of 46 new strategic raw material projects spanning 16 member states. These initiatives are designed to bolster the supply of materials crucial for the burgeoning battery industry, including lithium, nickel, cobalt, manganese, and graphite.",
+      "takeaway": "The European Commission has chosen 46 new projects across 16 member states to secure critical raw materials, with a focus on those essential for electric vehicle batteries.",
+      "body": [
+        "The EU Commission has announced the selection of 46 new strategic raw material projects spanning 16 member states. These initiatives are designed to bolster the supply of materials crucial for the burgeoning battery industry, including lithium, nickel, cobalt, manganese, and graphite.",
+        "Germany is notably participating in this round, with eight of the selected projects based within the country. The focus on these specific minerals underscores their importance in the ongoing transition towards electric mobility and renewable energy storage.",
+        "This move by the EU Commission is part of a broader strategy to reduce reliance on external sources for these vital components. By investing in domestic and regional projects, the EU aims to strengthen its industrial base and ensure a stable supply chain for key technologies.",
+        "The selected projects are expected to contribute to the extraction, processing, and recycling of these critical raw materials, fostering innovation and job creation within the member states involved. The initiative aligns with the EU's goals for a green and digital transition."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-09T14:00:00.000Z",
+      "updatedAt": "2026-10-09T14:00:00.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/09/eu-commission-selects-46-new-raw-materials-projects/",
+        "originalTitle": "EU Commission selects 46 new raw materials projects"
+      },
+      "faqs": [
+        {
+          "question": "What types of raw materials are prioritized by the EU Commission's new projects?",
+          "answer": "The projects prioritize materials such as lithium, nickel, cobalt, manganese, and graphite, which are critical for the battery industry."
+        },
+        {
+          "question": "How many projects were selected in Germany?",
+          "answer": "Germany has eight projects selected as part of the EU Commission's initiative."
+        }
+      ],
+      "image": {
+        "src": "/media/a4e07c8da659fabc.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Ore, Baobab, Pickaxe, Mountain, River",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Earth tones, ochre, dusty green, sky blue. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Arid landscape. Mood: Resourceful. Story objects that must appear: Ore, Baobab, Pickaxe, Mountain, River. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "69ccaa0261861320",
+      "section": "news",
+      "slug": "electrek-s-wheel-e-podcast-covers-new-e-bikes-and-electric-scooters-69ccaa02",
+      "headline": "Electrek's Wheel-E Podcast Covers New E-Bikes and Electric Scooters",
+      "dek": "The latest episode of the Wheel-E podcast discusses new electric bikes from Gazelle, Ride1Up, and SixThreeZero, alongside a solar-powered electric scooter and updates on electric motorcycle training.",
+      "kicker": "News",
+      "lead": "Electrek's Wheel-E podcast has featured a range of electric vehicle news, focusing on electric bikes and other unconventional electric transport.",
+      "takeaway": "The latest episode of the Wheel-E podcast discusses new electric bikes from Gazelle, Ride1Up, and SixThreeZero, alongside a solar-powered electric scooter and updates on electric motorcycle training.",
+      "body": [
+        "Electrek's Wheel-E podcast has featured a range of electric vehicle news, focusing on electric bikes and other unconventional electric transport.",
+        "This episode highlighted new e-bike models from manufacturers including Gazelle, Ride1Up, and SixThreeZero. Gazelle has reportedly made its premium electric bikes more accessible in terms of price. Ride1Up has introduced a new mid-drive e-bike capable of reaching 28 mph, priced at $1,295.",
+        "The podcast also covered a unique seven-seater e-bike and explored the potential of a solar-powered electric seated scooter designed for commuting without needing to be plugged in.",
+        "Additionally, the discussion touched upon the ease of obtaining a motorcycle license on an electric bike and the ongoing debate surrounding e-bike legislation, referencing a case involving an 11-year-old.",
+        "The Wheel-E podcast is available every two weeks on Electrek's YouTube channel, Facebook, LinkedIn, and Twitter, with archived videos and audio accessible on various podcast platforms."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-09T12:43:18.000Z",
+      "updatedAt": "2026-10-09T12:43:18.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/09/wheel-e-podcast-7-seater-e-bike-solar-powered-scooter-more/",
+        "originalTitle": "Wheel-E Podcast: 7-seater e-bike, solar-powered scooter, more"
+      },
+      "faqs": [
+        {
+          "question": "What electric vehicles were discussed on the Wheel-E podcast?",
+          "answer": "The podcast covered new e-bikes from Gazelle, Ride1Up, and SixThreeZero, a solar-powered electric scooter, and electric motorcycle training."
+        },
+        {
+          "question": "Where can I listen to the Wheel-E podcast?",
+          "answer": "The podcast is available on Electrek's YouTube channel, Facebook, LinkedIn, Twitter, and major podcast apps like Apple Podcasts and Spotify."
+        }
+      ],
+      "image": {
+        "src": "/media/69ccaa0261861320.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Electric bicycle, Electric scooter, Charging station, Solar panel, Road",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Earthy tones, vibrant accents. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Urban streetscape. Mood: Dynamic. Story objects that must appear: Electric bicycle, Electric scooter, Charging station, Solar panel, Road. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "418a83ff191e21da",
+      "section": "news",
+      "slug": "ecoflow-offers-significant-discounts-on-portable-power-stations-418a83ff",
+      "headline": "EcoFlow Offers Significant Discounts on Portable Power Stations",
+      "dek": "The company's latest flash sale includes a bundle of two 1,024Wh DELTA 3 Classic power stations for $889, marking a substantial reduction.",
+      "kicker": "News",
+      "lead": "EcoFlow has launched a 72-hour flash sale featuring discounts of up to 52% on several of its portable power station units. The most notable offer is a bundle of two 1,024Wh DELTA 3 Classic power stations, available for $889. This price represents a $309 discount from the original $1,198 price.",
+      "takeaway": "The company's latest flash sale includes a bundle of two 1,024Wh DELTA 3 Classic power stations for $889, marking a substantial reduction.",
+      "body": [
+        "EcoFlow has launched a 72-hour flash sale featuring discounts of up to 52% on several of its portable power station units. The most notable offer is a bundle of two 1,024Wh DELTA 3 Classic power stations, available for $889. This price represents a $309 discount from the original $1,198 price.",
+        "This particular deal brings the bundle to its second-lowest price of the year, just $10 above the all-time low recorded in July. The sale also includes other EcoFlow units, with prices starting from $599, and extends to larger capacity models such as 6kWh and 8kWh bundles.",
+        "Other significant discounts within the EcoFlow sale include the Smart Dual Fuel Generator 3000 for $599 (originally $749), and the 2x DELTA 3 Ultra (3,072Wh each) power stations for $2,398 (originally $4,998).",
+        "Additionally, the DELTA Pro 3 (8,192Wh) with an expansion battery is available for $4,229 (originally $5,598). These deals are part of EcoFlow's ongoing efforts to provide savings on their power solutions."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-08T18:00:00.000Z",
+      "updatedAt": "2026-10-08T18:00:00.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/08/ecoflow-1024wh-delta-3-classic-power-stations-segway-e-scooter-sale-anker-solix-ego-more/",
+        "originalTitle": "EcoFlow 2x 1,024Wh DELTA 3 Classic power stations $889, Segway extended 50% off e-scooter sale, Anker SOLIX, EGO, much more"
+      },
+      "faqs": [
+        {
+          "question": "What is the price of the EcoFlow DELTA 3 Classic power station bundle?",
+          "answer": "The bundle of two 1,024Wh DELTA 3 Classic power stations is available for $889."
+        },
+        {
+          "question": "What other EcoFlow products are on sale?",
+          "answer": "The sale includes the Smart Dual Fuel Generator 3000, DELTA 3 Ultra power stations, and the DELTA Pro 3 with an expansion battery, among other units starting from $599."
+        }
+      ],
+      "image": {
+        "src": "/media/418a83ff191e21da.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Power pack, Solar panel, Canvas tent, Lantern, Baobab tree",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Desert ochre, deep greens, sky blues. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Bushland clearing. Mood: Self-sufficiency. Story objects that must appear: Power pack, Solar panel, Canvas tent, Lantern, Baobab tree. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "9996091976b8eff7",
+      "section": "economy",
+      "slug": "mercedes-benz-reports-16-of-passenger-cars-sold-are-electric-99960919",
+      "headline": "Mercedes-Benz Reports 16% of Passenger Cars Sold are Electric",
+      "dek": "The German automaker saw a significant increase in fully electric vehicle sales in the third quarter, now representing one in six passenger cars sold globally.",
+      "kicker": "Economy",
+      "lead": "Mercedes-Benz Group announced that 16% of its passenger cars and vans sold worldwide in the third quarter were fully electric. This represents a substantial increase of over six percentage points compared to the same period in the previous year.",
+      "takeaway": "The German automaker saw a significant increase in fully electric vehicle sales in the third quarter, now representing one in six passenger cars sold globally.",
+      "body": [
+        "Mercedes-Benz Group announced that 16% of its passenger cars and vans sold worldwide in the third quarter were fully electric. This represents a substantial increase of over six percentage points compared to the same period in the previous year.",
+        "During the third quarter, the company sold a total of 78,100 electric vehicles. This growing share of electric models highlights the company's ongoing transition towards electrification.",
+        "Despite the positive global trend, Mercedes-Benz continues to face significant challenges in the Chinese market, which remains a difficult environment for the Stuttgart-based manufacturer.",
+        "The company's performance indicates a growing consumer demand for electric vehicles and a strategic shift in its product offerings."
+      ],
+      "authorSlug": "economy-desk",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "updatedAt": "2026-10-08T12:00:00.000Z",
+      "attribution": {
+        "source": "electrive.com",
+        "url": "https://www.electrive.com/2026/10/08/one-in-six-new-mercedes-passenger-cars-worldwide-now-fully-electric/",
+        "originalTitle": "One in six new Mercedes passenger cars worldwide now fully electric"
+      },
+      "faqs": [
+        {
+          "question": "What percentage of Mercedes-Benz passenger cars sold were fully electric in the third quarter?",
+          "answer": "Sixteen percent of all Mercedes passenger cars and vans sold worldwide were fully electric in the third quarter."
+        },
+        {
+          "question": "How many electric vehicles did Mercedes-Benz sell in the third quarter?",
+          "answer": "Mercedes-Benz Group sold 78,100 electric vehicles in the third quarter."
+        }
+      ],
+      "image": {
+        "src": "/media/9996091976b8eff7.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of electric vehicle, charging point, solar array, acacia tree",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: earth tones, sky blue, metallic silver. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: desert highway. Mood: forward-looking. Story objects that must appear: electric vehicle, charging point, solar array, acacia tree. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    },
+    {
+      "id": "8a88f3745e987317",
+      "section": "news",
+      "slug": "united-dairy-farmers-to-install-ev-fast-chargers-at-ohio-stores-8a88f374",
+      "headline": "United Dairy Farmers to Install EV Fast Chargers at Ohio Stores",
+      "dek": "The convenience store chain is adding DC fast chargers to six locations, aiming to support EV drivers while offering its usual amenities.",
+      "kicker": "News",
+      "lead": "United Dairy Farmers (UDF), a family-owned chain, is integrating DC fast chargers for electric vehicles into six of its 170 Ohio stores. The first chargers are expected to be operational in early 2027. These new charging facilities will be located in stores that already provide food, indoor and outdoor seating, and Wi-Fi.",
+      "takeaway": "The convenience store chain is adding DC fast chargers to six locations, aiming to support EV drivers while offering its usual amenities.",
+      "body": [
+        "United Dairy Farmers (UDF), a family-owned chain, is integrating DC fast chargers for electric vehicles into six of its 170 Ohio stores. The first chargers are expected to be operational in early 2027. These new charging facilities will be located in stores that already provide food, indoor and outdoor seating, and Wi-Fi.",
+        "UDF has secured National Electric Vehicle Infrastructure (NEVI) funding for these six locations, which are situated in Greater Cincinnati and Columbus. The company applied for NEVI funding for all six sites and was awarded the grants. The specific charging speeds, connector types, and pricing details have not yet been released.",
+        "The chargers are anticipated to be Electric Era's 400-kW models, designed to meet Ohio's NEVI guidelines. Electric Era's technology utilizes a combination of grid electricity and on-site batteries to manage peak demand and facilitate charging in areas with limited grid capacity.",
+        "Customers will have the option to use U-Drive Plus loyalty credits towards charging costs and can earn additional credits through qualifying purchases at the stores. UDF plans to announce individual opening dates for the chargers and will use customer demand and feedback to guide future expansion plans."
+      ],
+      "authorSlug": "desk-editor",
+      "publishedAt": "2026-10-07T21:39:34.000Z",
+      "updatedAt": "2026-10-07T21:39:34.000Z",
+      "attribution": {
+        "source": "Electrek",
+        "url": "https://electrek.co/2026/10/07/ice-cream-and-ev-fast-charging-united-dairy-farmers-is-bringing-both-to-ohio/",
+        "originalTitle": "Ice cream and EV fast charging? United Dairy Farmers is bringing both to Ohio"
+      },
+      "faqs": [
+        {
+          "question": "Where will the new EV fast chargers be located?",
+          "answer": "The new EV fast chargers will be installed at six United Dairy Farmers store locations in Hilliard, Lebanon, Mason, Maineville, and two in Cincinnati."
+        },
+        {
+          "question": "What technology will the EV fast chargers use?",
+          "answer": "The chargers are expected to be Electric Era's 400-kW models, which combine grid electricity with on-site batteries to support charging."
+        }
+      ],
+      "image": {
+        "src": "/media/8a88f3745e987317.jpg",
+        "width": 1264,
+        "height": 848,
+        "alt": "Flat illustration of Power pylon, Roadside kiosk, Motorcycle, Dusty road, Solar array, Acacia tree",
+        "credit": "Illustration",
+        "prompt": "Flat editorial illustration v2 filling a wide 3:2 frame edge to edge. No empty white margins. Brand illustration style: flat editorial, geometric, no text, no faces. Background colour must be #05140D, not white, not grey. Linework #ECFDF5. Accent #4ADE80. Secondary #A3E635. Rule #0A1F14. Story palette notes: Earthy tones, sky blue, metallic sheen. Brand palette: use #05140D, #ECFDF5, #4ADE80, #0A1F14, #A3E635. Scene: Roadside stop. Mood: Anticipation. Story objects that must appear: Power pylon, Roadside kiosk, Motorcycle, Dusty road, Solar array, Acacia tree. Geometric shapes, bold simple forms, generous but not empty negative space, subtle paper grain. No photorealism. No people. No faces. No hands. No crowds. Not a line-and-wash drawing, not an etching, not a lithograph, not a pen-and-ink sketch, not watercolor. Absolutely no text, letters, words, captions, signage, mastheads, numbers, logos, charts, or documents. Blank sky and blank walls. Do not write a headline on the image."
+      }
+    }
+  ]
+}
